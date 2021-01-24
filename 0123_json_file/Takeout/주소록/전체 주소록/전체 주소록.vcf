@@ -1,0 +1,30 @@
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:4ff5c732643231ab80ccf21b7bfd7321@hous.craigslist.
+ org
+item1.X-ABLabel:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:alice.borie1@gmail.com
+item1.X-ABLabel:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lisa
+N:;Lisa;;;
+item1.EMAIL;TYPE=INTERNET:gionordtips@mail.com
+item1.X-ABLabel:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Stephanie Woods
+N:Woods;Stephanie;;;
+item1.EMAIL;TYPE=INTERNET:stephwoods005@gmail.com
+item1.X-ABLabel:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:shdudgh1010@gmail.com
+item1.X-ABLabel:
+END:VCARD

@@ -1,0 +1,963 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "u2JBKIhD4jQ",
+    "videoPublishedAt" : "2015-09-18T07:39:07.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/WkWL0VmWioIa6tv77AFxuVFN-rQ\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjU2QjQ0RjZEMTA1NTdDQzY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "재미있는 영상을 찾지 않고도 보려면?    [구독] Click!!",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 0,
+    "publishedAt" : "2015-12-15T07:48:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "u2JBKIhD4jQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/u2JBKIhD4jQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/u2JBKIhD4jQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/u2JBKIhD4jQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "마이크를 팬한테 넘겼는데   그가수에 그팬 비욘세 halo"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "FcrkC3kJ2uE",
+    "videoPublishedAt" : "2017-05-31T09:57:24.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/JIJ26kOQxW4fqHRiXqoWE825wrY\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjA5MDc5NkE3NUQxNTM5MzI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "강성태 공신 강의 더 보러가기\n▶ https://goo.gl/MOn2eb\n[무료] 공부법은 물론, 습관까지 만들어 드려요.\n▶ https://goo.gl/FGllCp\n[공부의신 페이스북] 좋아요!\n▶ http://fb.com/gongsin\n\n성공의 제1원칙, 기회비용. 무언가를 얻기 위해서는 무언가를 포기할 줄 알아야 한다.",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 1,
+    "publishedAt" : "2017-12-17T13:29:03.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "FcrkC3kJ2uE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/FcrkC3kJ2uE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/FcrkC3kJ2uE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/FcrkC3kJ2uE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/FcrkC3kJ2uE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/FcrkC3kJ2uE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "성공의 제1원칙, 이루고 싶은 것이 있는 사람은 꼭 볼 것 ★ 공신 강성태"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "hMFxbsahGRE",
+    "videoPublishedAt" : "2015-09-03T09:47:21.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/NiyZKtyhSQRtKc1HKMg2C_zheVs\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjEyRUZCM0IxQzU3REU0RTE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "자막을 만들어주신 전유열님 감사합니다",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 2,
+    "publishedAt" : "2017-12-17T13:41:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hMFxbsahGRE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hMFxbsahGRE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hMFxbsahGRE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/hMFxbsahGRE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hMFxbsahGRE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/hMFxbsahGRE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "성공을 간절히 원할때"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "nztiGQ3M9C0",
+    "videoPublishedAt" : "2017-06-17T05:26:08.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/QYHaDKQPQTEd6FSMUl055KKt92M\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjUzMkJCMEI0MjJGQkM3RUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "[이영표] 노력해도 안되고 될 사람만 된다는 청춘들에게",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 3,
+    "publishedAt" : "2017-12-18T09:30:44.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "nztiGQ3M9C0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/nztiGQ3M9C0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/nztiGQ3M9C0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/nztiGQ3M9C0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/nztiGQ3M9C0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/nztiGQ3M9C0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[이영표] 노력해도 안된다는 될 사람만 된다는 청춘들에게"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "If95bdcptEM",
+    "videoPublishedAt" : "2017-12-18T09:00:01.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/TOAbkkw0tfYq69V83zBpUPPTtsU\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LkNBQ0RENDY2QjNFRDE1NjU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "강연자의 강연 소개 : \n우리는 성공 확률보다 높은 실패 확률 속에 살고 있습니다. 하지만 오늘 실패했다고 해서 실패한 인생일까요? 저는 사업 시작과 동시에 실패, 그리고 연이은 투자 실패로 누적 실패 금액 100억에 도달했습니다. 하지만 실패에서 멈추는 것이 아니라, 그 경험을 바탕으로 성공 신화를 써가고 있습니다. 오늘 실패했다고 그 사람의 인생이 실패한 것은 아닙니다. 인생은 길고 기회는 많기에, 길을 끝까지 완주해야만 성공을 알 수 있습니다.” 실패를 두려워하지 않는 도전이 당신을 승리로 이끕니다.\"\n\n✻ 김민철 강연자의 강연 섭외는 세바시 홈페이지로 문의주세요! ☞https://sebasi.co.kr/speaker/6\n[세바시] 구독하기 : http://bit.ly/2odEydm 종모양 알림 설정 누르셔야 알람이 갑니다 :) \n세바시 페이스북 페이지 | http://www.facebook.com/sebasi15\n세바시 카카오스토리 | https://story.kakao.com/ch/sebasi\n\n✻ 세바시 강연 콘텐츠의 저작권은 ‘(주)세상을바꾸는시간15분’에 있습니다. 영상 및 오디오의 불법 다운로드 및 재업로드, 재가공 등의 행위는 법적으로 금지되어 있습니다",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 4,
+    "publishedAt" : "2018-01-27T14:34:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "If95bdcptEM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/If95bdcptEM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/If95bdcptEM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/If95bdcptEM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/If95bdcptEM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/If95bdcptEM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "100% 성공하는 법 | 김민철 야나두 대표 | 성공 동기부여 강의 강연 영상 듣기 | 세바시 872회"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CQXver6Bt2s"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/s6DdcIRLlu7P4uRkcNdSI6EitH4\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13Ljk0OTVERkQ3OEQzNTkwNDM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "This video is private.",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 5,
+    "publishedAt" : "2018-03-16T12:41:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CQXver6Bt2s"
+    },
+    "title" : "Private video"
+  },
+  "status" : {
+    "privacyStatus" : "private"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1icPJAhI2TA",
+    "videoPublishedAt" : "2017-12-29T09:00:00.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Ye5b4EC68K-dBn1g0mQzCLdQgDY\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LkY2M0NENEQwNDE5OEIwNDY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "[MV] Yang Da Il (양다일) _ lie (미안해)\n\n*English subtitles are now available.   \n(Please click on 'CC' button or activate 'Interactive Transcript' function)  \n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n[ Yang Da Il ]\n\nWhen I love someone, I hate the person in the end. When I break up, I blame the person but then try to remember the person. Eventually, I forget the person. With a mixture of the feelings, I feel like my passionate love itself is faded over time so I wrote this song as if I was recording the feelings of the moments. \n\n:: iTunes :\n\n#Yang_Da_Il#양다일#lie#미안해#Newrelease#MV#1theK#원더케이\n\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 6,
+    "publishedAt" : "2018-09-29T10:03:23.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1icPJAhI2TA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1icPJAhI2TA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1icPJAhI2TA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1icPJAhI2TA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1icPJAhI2TA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[MV] Yang Da Il (양다일) _ lie (미안해)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "80l3N8rPiQ4",
+    "videoPublishedAt" : "2018-10-02T13:16:27.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/1bsdU4tBVKQQXM_UcjTTDphlDiY\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjQ3NkIwREMyNUQ3REVFOEE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "한국어로 설명해주는 유튜브 최초의 원어민 강의: English in Korean! (Since 2010) 오늘의 ‘학교에서 못 배우는 문법’ 강의에서는 사람들이 언어교환 모임에서 가장 흔히 하는 실수 중 하나를 살펴봅니다! ‘오늘 처음이다’라는 말을 맞게 영어로 옮길 수 있는 방법을 배우고 싶으시면 한번 보세요. 제 유튜브 채널을 아직 구독 안 하셨다면 구독을 눌러 주세요 (유튜버들에게 많은 도움이 됩니다!) \n\n새로운 영어 책을 출간했습니다! 그동안 ‘오늘의 표현’에서 다룬 100가지 주제를 묶어서 책을 썼는데 연습 문제, 유의어, 학습 자료 등등을 많이 붙였습니다. 아래 링크 가서 한번 구경해 보세요 ~ ^^ https://book.naver.com/bookdb/book_detail.nhn?bid=14644573\n그리고 오프라인 강의할 때 들고 오시면 사인해 드릴게요 ~\n\nEiK 공식 페이스북: http://www.facebook.com/EnglishinKorean 제 무료 영어 학습 사이트: http://www.EnglishinKorean.com\nEiK 인스타그램: http://www.instagram.com/englishinkorean\nEiK 공식 페이스북: http://www.facebook.com/EnglishinKorean\nEiK Podcast 링크: http://itunes.apple.com/kr/podcast/id444437634\n팟캐스트 안드로이드 링크: http://englishinkorean.com/podcasts/\n제 한국어 학습 사이트: http://www.Koreanchamp.com",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 7,
+    "publishedAt" : "2018-10-21T18:37:09.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "80l3N8rPiQ4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/80l3N8rPiQ4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/80l3N8rPiQ4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/80l3N8rPiQ4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/80l3N8rPiQ4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/80l3N8rPiQ4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "원어민들이 'This is my first time to come here'를 잘 안 쓰는 이유! (학교에서 못 배우는 영어 문법 18편)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "cXoC8eFRR9Y",
+    "videoPublishedAt" : "2011-08-11T02:34:30.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/KbeqF0frXjbcBzKiY8PeA-XpM4Q\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LkQwQTBFRjkzRENFNTc0MkI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "더 많은 강의 영상은 www.ohmyschool.org 에서 볼 수 있습니다.\n\n수능시장의 스타강사! 인문학 강의의 새장에 뛰어들다! \n\n세상에서 가장 쉬운 강의, \n세상에서 가장 재밌는 강의, \n그러나 깊이를 잃지 않는 강의가 시작된다. \n\n이 동영상은 '최진기의 뉴스위크 - 금리가 왜 중요한가' 영상입니다.",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 8,
+    "publishedAt" : "2018-11-11T14:56:26.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "cXoC8eFRR9Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/cXoC8eFRR9Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/cXoC8eFRR9Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/cXoC8eFRR9Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/cXoC8eFRR9Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[최진기의 뉴스위크 16강] 금리가 왜 중요한가"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "T8f1fKsiLvE",
+    "videoPublishedAt" : "2018-11-12T14:00:03.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Q3yDUhTih7FMKuk3rsyr37DDVVw\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13Ljk4NEM1ODRCMDg2QUE2RDI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "Why Waking Up at 4am Will Completely Change Your Life! The time you wake up has a lot to do with you who become. Get a head start on the rest of the world by skipping the snooze button and outworking your competition! These motivational videos are created to motivate students to study for exams, work hard, and fight feelings of depression and anxiety.\n\nSubscribe for a new Motivational Video every week! Activate the 🔔 beside the subscribe button to get a notification! Leave us a comment with what you'd like to see in the next video!\n________________________________________________________________\n\n🧠 5 Day Memory Mastery 🧠: Check out our new course at http://bit.ly/5DayMemoryMasterCourse\n\n📘 Recommended Reading List 📘\n https://amzn.to/2v6QPY0\nAmazing Authors like Brendan Burchard, David Goggins, James Clear, Dale Carnegie, Stephen R. Covey, Nick Winter, Tara Westover, Mel Robbins, Steven Pressfield, Charles Duhigg, Cal Newport, Elizabeth Gilbert, David Allen, George Leonard, Kevin Kruse, and Zac Bissonnette.\n\n📕 Recommended Student Supplies & Tools 📕\nhttps://amzn.to/3705IIy\nHigher Performance Planner, Pens, Highlighters, Notebooks, Backpacks, Water Bottles, Business Model Handbook, Post-its, Stickers, Laptop Bag, Dorm Room Bedside Table.\n\nAmazon Prime Student 6-mo trial: https://amzn.to/2OuYEzK\n\n☀️ Recommended Morning Journal ☀️\nHabitnest: http://bit.ly/YourMorningSidekickJournal\n________________________________________________________________\n\n►Speakers: \n\nTorian Salary:\n\nTorian Salary is an award winning Motivational Speaker who has been featured on TV, radio, and in newspapers. He is know as \"The Professor of Personal Growth\" and has helped transform the lives of over half a million people across the world.\n\nBook Torian:\nhttp://www.toriansalary.com/requesttorian\n\nFollow him:\nhttps://www.youtube.com/user/TKS4712\nhttps://www.instagram.com/toriansalary/\nhttps://www.facebook.com/tk.salary\n\nGary Vaynerchuk: https://www.youtube.com/user/GaryVaynerchuk\n\nEric Thomas: https://www.youtube.com/user/etthehiphoppreacher\nhttp://etinspires.com/\nhttps://twitter.com/Ericthomasbtc\nhttps://www.instagram.com/etthehiphoppreacher/\nhttps://www.facebook.com/etthehiphopp...\n\nJay Shetty: https://www.youtube.com/channel/UCbV60AGIHKz2xIGvbk0LLvg\n\nTyrese Gibson\nDwayne Johnson\n\nJocko Willink: https://www.youtube.com/channel/UCkqcY4CAuBFNFho6JgygCnA\n\nLes Brown: https://lesbrown.com/\n\n►Follow Motivation2Study:\n\nFacebook: https://www.facebook.com/Motivation2Study/\nGroup: https://www.facebook.com/groups/motivation2study/\nInstagram: https://www.instagram.com/motivation2.study/\nTwitter: https://twitter.com/Motivation2S\nPinterest: https://www.pinterest.com/motivation2study/\n\n►Music:\n\nReally Slow Motion \n\nBuy Really Slow Motion music:\nAmazon : http://amzn.to/1lTltY5\niTunes: http://bit.ly/1ee3l8K\nSpotify: http://bit.ly/1r3lPvN\nBandcamp: http://bit.ly/1DqtZSo\n\n►Video footage: For all video footage used, please see the credits at the end of the video. All video footage is licensed under CC-BY 3.0. More footage:\n\nRESOURCES & STUDENT DEALS\n►If you struggle and have a hard time, consider taking an online therapy session with our partner BetterHelp:\nhttp://bit.ly/TryOnlineTherapyMotivation2Study\n►Read faster with Blinkist (free trial): http://bit.ly/2rl8q8y\n►Write error-free with Grammarly (free extension): https://grammarly.go2cloud.org/SH125\n►Get Amazon Prime (50% OFF for students!): http://amzn.to/2w8EazZ\n\nHelp us caption & translate this video!\n\nhttps://amara.org/v/mRit/",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 9,
+    "publishedAt" : "2018-11-18T04:40:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "T8f1fKsiLvE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/T8f1fKsiLvE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/T8f1fKsiLvE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/T8f1fKsiLvE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/T8f1fKsiLvE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/T8f1fKsiLvE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Waking Up at 4:00 AM Every Day Will Change Your Life"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "uayzRS-3hFs",
+    "videoPublishedAt" : "2017-11-25T13:21:21.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/N590Dz9TmDgQlzZrpyUyLRY0rUQ\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjMwODkyRDkwRUMwQzU1ODY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "영어에는 조동사에 완료시제를 입혀서 사용하는 경우가 굉장히 많다.  would have p.p, must have p.p, might have p.p, could have p.p 등등..\n하지만 이걸 한번에 다 배울 수는 없다,  아니, 한번에 다 배워서는 안된다 - 이렇게 복잡한 내용은 반드시 문맥과 함께 살펴보고 배워야 그것이 만들어주는 독특하고 다양한 뉘앙스를 제대로 배울 수가 있다.\n\n이번 영상에서는 많은 조합 중에 다음의 3가지를 배워봅니다 :\n\n- must have p.p\n- might have p.p\n- couldn't have p.p ( 중 하나의 유형 )",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 10,
+    "publishedAt" : "2019-04-27T06:39:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "uayzRS-3hFs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/uayzRS-3hFs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/uayzRS-3hFs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/uayzRS-3hFs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/uayzRS-3hFs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/uayzRS-3hFs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "🥊 영어회화 | must have, might have, couldn't have | 했나보다, 했을 수도 있다, 했을리가 없다"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "N9eQAoDg9Pk",
+    "videoPublishedAt" : "2019-10-31T08:08:51.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/py2c3NsDFiucOzl4FEr5vw8yGPs\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjUzOTZBMDExOTM0OTgwOEU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "▶ 〈비정상회담〉 101회 특집 2부 “WE ARE THE WORLD”\n｜ 20160606 비정상회담 EP.101 \n\n〈비정상회담〉의 주역! G18인의 동창회, 마지막 이야기!\nG18인의 진짜 이야기는 이제부터가 시작이다?!\n토론의 귀재, G18인의 본격 토론 배틀!\nSNS로 접수된 시청자의 안건 100개 중 랜덤으로 선택!\n불꽃 튀는 G18인의 끝장 토론 종결판, START!\n\n〈아무거나 막 토론〉\n투명 아크릴 박스 속 100개의 안건! 연애 상담부터 자녀 교육 문제까지!\n토론의 왕좌를 차지할, 최후의 승자는 과연?!\n\n“애인 있는 친구를 좋아하는 나, 비정상인가요?”\n우정 OR 사랑, G18인의 선택은?!\n\n“평생 함께해 온 단짝 친구의 갑작스러운 절교 선언!”\n그들의 우정을 되돌릴 수 있는 방법은?!\n\n“고등학생인 딸과 남자 친구의 애정행각을 목격한 엄마!\n성인이 된 후, 이성 교제를 하라고 말하는 나, 비정상인가요?!“\n세상의 모든 아버지로 빙의한 G18인의 첨예한 대립!\n현명한 G18인의 통쾌한 해결책은 과연?!\n\n하나 더! 스페셜 게스트 ‘진중권’의 깜짝 영상 공개!\n“100회 특집”을 위한 서프라이즈 안건 등장!\n멤버들을 당혹시킨, 마지막 ‘특별 안건’의 정체는 과연?!\n\n글로벌 문화대전! 〈뭔? 나라 이웃 나라!〉\n천 년의 역사를 자랑하는 아랍의 보석! 북아프리카의 ‘카사블랑카’로 알려진, 모로코!\n할리우드가 사랑한 모로코의 신비한 이야기들! 매력 만점의 일비정상 대표는 누구?!",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 11,
+    "publishedAt" : "2019-11-02T03:45:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "N9eQAoDg9Pk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/N9eQAoDg9Pk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/N9eQAoDg9Pk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/N9eQAoDg9Pk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/N9eQAoDg9Pk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/N9eQAoDg9Pk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[비정상회담][101-3] 연애는 성인이 된 후에? 청소년의 연애에 대한 G들의 극과 극 관점 (Abormal Summit)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NwSALNiUNhM",
+    "videoPublishedAt" : "2020-02-18T23:00:04.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/l6uPdtBJNNjyF1mLLARwBA1NN7s\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LkRBQTU1MUNGNzAwODQ0QzM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "없는 빌보드차트 최신 팝송 모음 😍 영어 노래 2020 - 트렌디한 최신 팝송 노래 모음 😍 Best Popular Songs Of 2020\n팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래팝송,듣기 좋은 팝송,인기팝송,신나는팝송,크리스마스,운동할때 듣는 팝송,신나는노래팝송,팝송 명곡 베스트 100,운동할때 듣는 음악,팝송모음,팝송 명곡,신나는 음악,신나는팝송모음,크리스마스 팝송,인기 팝송,춤추기 좋은 팝송,팝송 모음,신나는 팝송 명곡 베스트 100,신나는노래,신나는 팝송 모음,광고없는 팝송,신나는 팝송 2019,신나는,운동할때 듣는 음악 팝송,댄스팝송,경쾌한 음악,댄스팝송 명곡 베스트 100,신나는 팝,신나는음악,신나는 노래,경쾌한 팝송,신나는팝송모음2019,드라이브 할때 좋은 팝송,팝송모음 광고없는,명곡,광고없는 신나는 팝송,클럽 팝송,클럽팝송,크리스마스 캐롤,하루종일들어도좋은노래",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 12,
+    "publishedAt" : "2020-04-04T04:44:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NwSALNiUNhM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NwSALNiUNhM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NwSALNiUNhM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/NwSALNiUNhM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NwSALNiUNhM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NwSALNiUNhM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "없는 빌보드차트 최신 팝송 모음 😍 영어 노래 2020 - 트렌디한 최신 팝송 노래 모음 😍 Best Popular Songs Of 2020"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "uGDDyMWHJtg",
+    "videoPublishedAt" : "2020-02-07T02:54:54.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/pIr_PWwhHg-EElpZNhq56Ewcqrc\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjVBNjVDRTExNUI4NzM1OEQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "이 영상에서는 현대국어, 근대국어, 후기중세국어, 전기중세국어, 고대국어(신라어)를 차례대로 훑어봤습니다.\n『조선어독본』의 음성은 다음 영상을 사용했습니다 - https://youtu.be/Jg6ISrE2Qt8\n고대국어 『제망매가』의 음성은 minerva scientia 님의 영상을 사용했습니다 - https://youtu.be/SpS4vmrhr00\n이 콘텐츠는 다음 영상에서 영감을 받았습니다 -  https://youtu.be/8fxy6ZaMOq8\n\n––––––––––––––––––––––––––––––\nFilaments by Scott Buckley https://soundcloud.com/scottbuckley\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: https://bit.ly/_filaments\nMusic promoted by Audio Library https://youtu.be/hH_q2V2NnU4\n––––––––––––––––––––––––––––––",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 13,
+    "publishedAt" : "2020-04-10T23:37:54.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "uGDDyMWHJtg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/uGDDyMWHJtg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/uGDDyMWHJtg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/uGDDyMWHJtg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/uGDDyMWHJtg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/uGDDyMWHJtg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "과거로 가도 말이 통할까? - 한국어의 변화"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "deK7zJmnG9I",
+    "videoPublishedAt" : "2019-12-15T13:07:01.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Fdi_9ki2VqmKjhZ93g_UeMcNHCM\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjIxRDJBNDMyNEM3MzJBMzI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "두려움에 맞서는 자세에 대한 윌 스미스의 연설입니다.\n이 영상이 여러분의 하루에 조금이라도 도움이 되길 바랍니다!\n\n구독과 좋아요는 저에게 큰 힘이 됩니다 ^^\n\n#윌스미스명연설 #동기부여연설 #명연설한영자막 #engsub\n\nGod placed the best things in life on the other side of terror.\n신은 인생에서 최고의 것들을 항상 두려움 뒤에 놓습니다.\n\n\n\n★자막&편집 : 필미필미\n\n\n▶ Speaker\n    -  윌 스미스 (Will Smith)\n\n▶ Video footage\n    -  Will Smith interview - How to face fear (2016)\n    -  Video blocks\n    -  나는 전설이다 / I am Legend (2007)\n    \n▶ Music\n    - Sprawling (Borrtex_Artlist)\n    - Delicate Frost (IanPost_Artist)\n    - Unfold (Philip DaniealZach_Artist)\n    - Ascent (Josh Leake_Artist)\n\n\n▶ FAIR USE DISCLAIMER\n\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\n 1. This video is for teaching purposes.\n  2. There is no transformation of original works.\n  3. Video clips and images were used for very small part to help understand.\n  4. This video has no negative impact on market value of original.\n\n\nFeel me Fill me channel does not own the rights to these video clips. They have, in accordance with fair use, been repurposed with the intent of educating and inspiring others. However, if any content owners would like their images removed, please contact us by email at Feelmeandfillme@gmail.com",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 14,
+    "publishedAt" : "2020-05-08T02:36:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "deK7zJmnG9I"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/deK7zJmnG9I/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/deK7zJmnG9I/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/deK7zJmnG9I/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/deK7zJmnG9I/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/deK7zJmnG9I/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "\"윌 스미스 명연설\" 👉 나만의 두려움 극복법  《윌 스미스》"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "whFZCmN__mM",
+    "videoPublishedAt" : "2017-09-20T09:56:30.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/KuOpUQWssX3Sm-5MBxespEMC9ig\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjlFODE0NEEzNTBGNDQwOEI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "* 맥레이븐(McRaven, The University of Texas)의 연설을 책으로도 보고 싶은 분은 아래 링크를 확인해보세요.\nhttps://amzn.to/2DLuNgz\n\n* 포크포크 페이스북\nhttps://www.facebook.com/pokepoke.kr\n\n* 포크포크 웹\nhttp://www.pokepoke.co.kr\n\n* 문의\nhello@pokepoke.co.kr",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 15,
+    "publishedAt" : "2020-05-08T02:37:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "whFZCmN__mM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/whFZCmN__mM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/whFZCmN__mM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/whFZCmN__mM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/whFZCmN__mM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/whFZCmN__mM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "해군대장, '세상을 바꾸고 싶다면, 이불 정리부터 시작해'"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "74d6VetU0Yg",
+    "videoPublishedAt" : "2020-04-14T08:36:31.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/7AcU9LEm6ChT3bMbl6T5yMQWesE\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LkQ0NThDQzhEMTE3MzUyNzI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "#국제커플#한독커플#러브스토리\n\n두근두근! 첫 만남의 그 순간부터 “우리 사귀자!!” 고백의 순간 그리고 현재까지 우리의 러브 스토리를 들려드릴게요~!\n\n다 함께 영상을 시청하러 가볼까요?\n\nFrom the first meeting to the moment of confession to now~ We will tell you our love story~!\n\nShall we watch it all together?\n\n[Instagram]\n\n동기(Donggi)\nhttps://www.instagram.com/tongki_ahn/\n\n리나(Lina)\nhttps://www.instagram.com/lina_so_/",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 16,
+    "publishedAt" : "2020-05-10T21:31:39.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "74d6VetU0Yg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/74d6VetU0Yg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/74d6VetU0Yg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/74d6VetU0Yg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/74d6VetU0Yg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "우리는 어떻게 만났어요? 한독 국제커플 첫만남부터 고백까지 | HOW WE MET | International couple"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "mOk4ghoRtDo",
+    "videoPublishedAt" : "2014-12-25T12:41:17.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/BbWqdl6PwkmUHtN9ooqQd8q7SBw\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjIwOEEyQ0E2NEMyNDFBODU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "최초 게시자\n: https://www.facebook.com/madfit.lee/videos/763112607079422/\n\n나레이션 음성 정보\n1:13 박명수씨 목소리 같네요.\n1:19 김광규씨 목소리 같아요.\n1:29 유재석씨 목소리네요.\n1:30 누구인지 좀 알려주세요.\n2:01 유재석씨 목소리네요.\n2:18 누구인가요?\n\nBGM정보(Zack Hamsey - The way): https://youtu.be/oN2Xs-MvxLw\n아래 영상들도 추천합니다.\n\n이 또한 지나가리라.(레스 브라운)\nhttps://vimeo.com/214160666\n\nKFC의 기원\nhttp://youtu.be/ligZ9s01w6k\n\n감동으로 세상 바꾸기 페이지 좋아요www.facebook.com/gamseba\n좋아요 누르는 것만으로도 당신은 세상을 바꾸는데 일조한것입니다!!!^^\nMSG처럼 자극적인 짤에 지친 여러분!!!\n이제 마음을 정화할 수 있는 훈훈한 짤들을 만나보세요!!!\n\n감동적이고 귀감이 될만한 소식을 제보해주세요.\ndonelly@naver.com",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 17,
+    "publishedAt" : "2020-05-10T23:46:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "mOk4ghoRtDo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/mOk4ghoRtDo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/mOk4ghoRtDo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/mOk4ghoRtDo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/mOk4ghoRtDo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "동기부여 영상"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "rpzF4sXG6xo",
+    "videoPublishedAt" : "2020-04-06T11:00:23.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/cuNv66FaNi0GMIJj-qalI9uAXQo\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LkYzRDczQzMzNjk1MkU1N0Q=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "페이스북 : https://www.facebook.com/SuccessDiary.kr/\n각종 문의 : tjdrhddlfrl1996@naver.com\n\n- Voice -\n\n데이비드 고긴스 (David Goggins)\n\n▶FAIR-USE COPYRIGHT DISCLAIMER\n\n1)This video has no negative impact on the original works (It would actually be positive for them)\n2)This video is also for teaching purposes.\n3)It is not transformative in nature.\n4)I only used bits and pieces of videos to get the point across where necessary.",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 18,
+    "publishedAt" : "2020-05-10T23:53:48.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "rpzF4sXG6xo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/rpzF4sXG6xo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/rpzF4sXG6xo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/rpzF4sXG6xo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/rpzF4sXG6xo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/rpzF4sXG6xo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "한계에 부딪혔을 때 - \"동기부여 영상\""
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "nk0UycvDIlw",
+    "videoPublishedAt" : "2020-04-04T03:30:02.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/w2uz13LtguDwMCnZCbfRsFrwsWE\"",
+  "id" : "V0x5cDNMZ09vUjRjSmZFcElTb0VucW13LjcxMjU0MjA5MzBCMjEzM0Y=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCyp3LgOoR4cJfEpISoEnqmw",
+    "channelTitle" : "노영호",
+    "description" : "#스포츠선수 #훈련 #실력\n\n전세계에서 농구에 투자한 시간이 제일 많은 \n농구선수 #코비브라이언트\n\n역대 최다 올림픽 금메달 23개 거머쥔 \n수영선수 #마이클펠프스\n\n세계 챔피언! 700억의 사나이\n복싱선수 #플로이드메이웨더\n\n자신이 최고의 상태로 매진할 수 있는 환경을 갖추는 것. \n그것이 진정한 실력이 아닐까 싶다. \n그렇게 이들은 최고 중에서도 최고가 되었다.\n---------------------------------------------------------------------------------------\n★[체인지그라운드]를 구독해, 매일매일 자기성장, 자기계발, 동기부여 콘텐츠를 간편하게 받아보세요.\n \n[체인지그라운드] 유튜브 채널:\nhttps://www.youtube.com/체인지그라운드\n\n[체인지그라운드] 페이스북 채널:\nhttps://www.facebook.com/changeground/#\n \n[체인지그라운드] 광고 문의 :\ninfo@changeground.com",
+    "playlistId" : "WLyp3LgOoR4cJfEpISoEnqmw",
+    "position" : 19,
+    "publishedAt" : "2020-05-19T04:30:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "nk0UycvDIlw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/nk0UycvDIlw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/nk0UycvDIlw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/nk0UycvDIlw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/nk0UycvDIlw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/nk0UycvDIlw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "따라 할 엄두도 못내는 최고 연봉 스포츠 스타들의 미친 훈련량ㄷㄷㄷ"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

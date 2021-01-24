@@ -1,0 +1,4070 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 374732756,
+        "longitudeE7" : 1268646871
+      },
+      "endLocation" : {
+        "latitudeE7" : 374730492,
+        "longitudeE7" : 1268646516
+      },
+      "duration" : {
+        "startTimestampMs" : "1516061256314",
+        "endTimestampMs" : "1516083884675"
+      },
+      "distance" : 38276,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.82408546375817
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.567970508028132
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.3483169466151432
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 374734652,
+        "longitudeE7" : 1268651550
+      },
+      "endLocation" : {
+        "latitudeE7" : 374736922,
+        "longitudeE7" : 1268644157
+      },
+      "duration" : {
+        "startTimestampMs" : "1516084227999",
+        "endTimestampMs" : "1516086297999"
+      },
+      "distance" : 22230,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.39627523329563
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.3954603224358033
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.2007779293733516
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 374736922,
+        "longitudeE7" : 1268644157
+      },
+      "endLocation" : {
+        "latitudeE7" : 374732251,
+        "longitudeE7" : 1268654099
+      },
+      "duration" : {
+        "startTimestampMs" : "1516086297999",
+        "endTimestampMs" : "1516235459000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 373316636,
+          "lngE7" : 1268444339,
+          "timestampMs" : "1516086297999",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 374739191,
+          "lngE7" : 1268643937,
+          "timestampMs" : "1516235382340",
+          "accuracyMeters" : 86
+        }, {
+          "latE7" : 374732612,
+          "lngE7" : 1268643204,
+          "timestampMs" : "1516235413445",
+          "accuracyMeters" : 19
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 374732251,
+        "longitudeE7" : 1268654099
+      },
+      "endLocation" : {
+        "latitudeE7" : 372044965,
+        "longitudeE7" : 1270376741,
+        "placeId" : "ChIJHeJtDP9DezURs8jpp4yulB4",
+        "address" : "대한민국 경기도 화성시 병점동 870",
+        "name" : "코바코",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 4.6346054
+      },
+      "duration" : {
+        "startTimestampMs" : "1516235459000",
+        "endTimestampMs" : "1516238698999"
+      },
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.29953141726887
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.982092191879134
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.37795725463961277
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 372044965,
+        "longitudeE7" : 1270376741,
+        "placeId" : "ChIJHeJtDP9DezURs8jpp4yulB4",
+        "address" : "대한민국 경기도 화성시 병점동 870",
+        "name" : "코바코",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 4.6346054
+      },
+      "duration" : {
+        "startTimestampMs" : "1516238698999",
+        "endTimestampMs" : "1516241653000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 372039875,
+      "centerLngE7" : 1270387332,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 372056102,
+        "longitudeE7" : 1270394945,
+        "placeId" : "ChIJO5h8W_9DezURtjw8mIbFnPQ",
+        "name" : "신전떡볶이",
+        "locationConfidence" : 3.9574325
+      }, {
+        "latitudeE7" : 372036970,
+        "longitudeE7" : 1270367140,
+        "placeId" : "ChIJ_aStMP5DezURY6v0gkeXe9s",
+        "name" : "귀금속 매입센터 보화스위스 병점점",
+        "locationConfidence" : 3.7919912
+      }, {
+        "latitudeE7" : 372050244,
+        "longitudeE7" : 1270377794,
+        "placeId" : "ChIJBy2YBv9DezUR_Qi6eEWq1-8",
+        "name" : "바른정형외과",
+        "locationConfidence" : 3.5117583
+      }, {
+        "latitudeE7" : 372048300,
+        "longitudeE7" : 1270384460,
+        "placeId" : "ChIJHeJtDP9DezURw7H9g2IZsrI",
+        "name" : "늘푸른비뇨기과의원",
+        "locationConfidence" : 3.3740559
+      }, {
+        "latitudeE7" : 372053022,
+        "longitudeE7" : 1270383349,
+        "placeId" : "ChIJ1djVE_9DezURXltLlKbZq_E",
+        "name" : "본죽",
+        "locationConfidence" : 3.2367713
+      }, {
+        "latitudeE7" : 372054894,
+        "longitudeE7" : 1270399386,
+        "placeId" : "ChIJ4clpOwdEezURuy5t23rx_r4",
+        "name" : "포지타노",
+        "locationConfidence" : 2.6967995
+      }, {
+        "latitudeE7" : 372054689,
+        "longitudeE7" : 1270386960,
+        "placeId" : "ChIJs17Tav9DezUReIR4bG2O-X4",
+        "name" : "1001안경원 화성태안점",
+        "locationConfidence" : 2.632027
+      }, {
+        "latitudeE7" : 372054411,
+        "longitudeE7" : 1270397514,
+        "placeId" : "ChIJI1-8Xv9DezURhpJi74jtg98",
+        "name" : "서울성모이비인후과",
+        "locationConfidence" : 2.4309988
+      }, {
+        "latitudeE7" : 372054981,
+        "longitudeE7" : 1270398992,
+        "placeId" : "ChIJJRu8Xv9DezURAiwtKB33sNA",
+        "name" : "Donbangseog",
+        "locationConfidence" : 2.3295848
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 372039276,
+        "longitudeE7" : 1270393748
+      },
+      "endLocation" : {
+        "latitudeE7" : 372043477,
+        "longitudeE7" : 1270384616
+      },
+      "duration" : {
+        "startTimestampMs" : "1516241653000",
+        "endTimestampMs" : "1516252190249"
+      },
+      "distance" : 9178,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.7599830316401
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.362872811281606
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.4556493368673016
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1516252205683",
+        "location" : {
+          "latitudeE7" : 372043477,
+          "longitudeE7" : 1270384616,
+          "accuracyMetres" : 23
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 372044965,
+        "longitudeE7" : 1270376741,
+        "placeId" : "ChIJHeJtDP9DezURs8jpp4yulB4",
+        "address" : "대한민국 경기도 화성시 병점동 870",
+        "name" : "코바코",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 5.193484
+      },
+      "duration" : {
+        "startTimestampMs" : "1516252190249",
+        "endTimestampMs" : "1516253401999"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 372042035,
+      "centerLngE7" : 1270385848,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 372056102,
+        "longitudeE7" : 1270394945,
+        "placeId" : "ChIJO5h8W_9DezURtjw8mIbFnPQ",
+        "name" : "신전떡볶이",
+        "locationConfidence" : 4.92551
+      }, {
+        "latitudeE7" : 372053022,
+        "longitudeE7" : 1270383349,
+        "placeId" : "ChIJ1djVE_9DezURXltLlKbZq_E",
+        "name" : "본죽",
+        "locationConfidence" : 4.112238
+      }, {
+        "latitudeE7" : 372048300,
+        "longitudeE7" : 1270384460,
+        "placeId" : "ChIJHeJtDP9DezURw7H9g2IZsrI",
+        "name" : "늘푸른비뇨기과의원",
+        "locationConfidence" : 3.670661
+      }, {
+        "latitudeE7" : 372050244,
+        "longitudeE7" : 1270377794,
+        "placeId" : "ChIJBy2YBv9DezUR_Qi6eEWq1-8",
+        "name" : "바른정형외과",
+        "locationConfidence" : 3.6135137
+      }, {
+        "latitudeE7" : 372036970,
+        "longitudeE7" : 1270367140,
+        "placeId" : "ChIJ_aStMP5DezURY6v0gkeXe9s",
+        "name" : "귀금속 매입센터 보화스위스 병점점",
+        "locationConfidence" : 3.4267306
+      }, {
+        "latitudeE7" : 372054894,
+        "longitudeE7" : 1270399386,
+        "placeId" : "ChIJ4clpOwdEezURuy5t23rx_r4",
+        "name" : "포지타노",
+        "locationConfidence" : 2.9207718
+      }, {
+        "latitudeE7" : 372054411,
+        "longitudeE7" : 1270397514,
+        "placeId" : "ChIJI1-8Xv9DezURhpJi74jtg98",
+        "name" : "서울성모이비인후과",
+        "locationConfidence" : 2.3858867
+      }, {
+        "latitudeE7" : 372054689,
+        "longitudeE7" : 1270386960,
+        "placeId" : "ChIJs17Tav9DezUReIR4bG2O-X4",
+        "name" : "1001안경원 화성태안점",
+        "locationConfidence" : 2.2224152
+      }, {
+        "latitudeE7" : 372054981,
+        "longitudeE7" : 1270398992,
+        "placeId" : "ChIJJRu8Xv9DezURAiwtKB33sNA",
+        "name" : "Donbangseog",
+        "locationConfidence" : 2.0375354
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 372043058,
+        "longitudeE7" : 1270377982
+      },
+      "endLocation" : {
+        "latitudeE7" : 373936173,
+        "longitudeE7" : 1268643697
+      },
+      "duration" : {
+        "startTimestampMs" : "1516253401999",
+        "endTimestampMs" : "1516255301999"
+      },
+      "distance" : 29226,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.61475565665758
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7071523333788744
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3163964028486015
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 373936173,
+        "longitudeE7" : 1268643697
+      },
+      "endLocation" : {
+        "latitudeE7" : 374495395,
+        "longitudeE7" : 1264520130
+      },
+      "duration" : {
+        "startTimestampMs" : "1516255301999",
+        "endTimestampMs" : "1517185213097"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 374493936,
+          "lngE7" : 1264509514,
+          "timestampMs" : "1517185091413",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 374495308,
+          "lngE7" : 1264516937,
+          "timestampMs" : "1517185184161",
+          "accuracyMeters" : 26
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 374601908,
+        "longitudeE7" : 1264406957,
+        "placeId" : "ChIJWfpeOoOaezUR1L5cy5agS40",
+        "address" : "대한민국 인천광역시 중구 공항로 272",
+        "name" : "Incheon International Airport",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 99.99827
+      },
+      "duration" : {
+        "startTimestampMs" : "1517185341459",
+        "endTimestampMs" : "1517186098823"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 374508243,
+      "centerLngE7" : 1264541114,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 374498840,
+        "longitudeE7" : 1264513627,
+        "placeId" : "ChIJ3yGMEmGaezURUMZn9zUKpkk",
+        "name" : "빈폴 공항면세점",
+        "locationConfidence" : 0.0017313439
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 374504562,
+          "lngE7" : 1264531158,
+          "timestampMs" : "1517185341459",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 374506815,
+          "lngE7" : 1264545380,
+          "timestampMs" : "1517185584563",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 374512776,
+          "lngE7" : 1264540992,
+          "timestampMs" : "1517185721573",
+          "accuracyMeters" : 56
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 374601908,
+        "longitudeE7" : 1264406957
+      },
+      "endLocation" : {
+        "latitudeE7" : 406413111,
+        "longitudeE7" : -737781391
+      },
+      "duration" : {
+        "startTimestampMs" : "1517186098823",
+        "endTimestampMs" : "1517242048740"
+      },
+      "distance" : 11092528,
+      "activityType" : "FLYING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 99.16660919784206
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.21841868462759792
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.21216937619850182
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 374512776,
+          "lngE7" : 1264540992,
+          "timestampMs" : "1517186098823",
+          "accuracyMeters" : 68
+        }, {
+          "latE7" : 374496951,
+          "lngE7" : 1264468159,
+          "timestampMs" : "1517186229757",
+          "accuracyMeters" : 92
+        }, {
+          "latE7" : 374512776,
+          "lngE7" : 1264540992,
+          "timestampMs" : "1517186350741",
+          "accuracyMeters" : 87
+        }, {
+          "latE7" : 374481920,
+          "lngE7" : 1264491565,
+          "timestampMs" : "1517186837358",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 374485320,
+          "lngE7" : 1264486785,
+          "timestampMs" : "1517186944905",
+          "accuracyMeters" : 21
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 406413111,
+        "longitudeE7" : -737781391,
+        "placeId" : "ChIJR0lA1VBmwokR8BGfSBOyT-w",
+        "address" : "Queens, NY 11430\nUSA",
+        "name" : "John F. Kennedy International Airport",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1517242048740",
+        "endTimestampMs" : "1517246559449"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 406440240,
+          "longitudeE7" : -737824417,
+          "placeId" : "ChIJn1JV21lmwokR331CBJogbWg",
+          "address" : "Queens, NY 11430\nUSA",
+          "name" : "JFK Terminal 4",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 72.909294
+        },
+        "duration" : {
+          "startTimestampMs" : "1517242048740",
+          "endTimestampMs" : "1517246559449"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 406441203,
+        "centerLngE7" : -737818139,
+        "visitConfidence" : 92,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 406439568,
+          "longitudeE7" : -737823317,
+          "placeId" : "ChIJbcKrxFlmwokRgqcvzU_pG2E",
+          "name" : "JFK International Airport, Terminal 4",
+          "locationConfidence" : 5.5106306
+        }, {
+          "latitudeE7" : 406453017,
+          "longitudeE7" : -737826556,
+          "placeId" : "ChIJNZ-4LlhmwokRKjtXwBhGQ68",
+          "name" : "JFK Blue Parking",
+          "locationConfidence" : 4.9466605
+        }, {
+          "latitudeE7" : 406439077,
+          "longitudeE7" : -737824795,
+          "placeId" : "ChIJ5aPXw1lmwokRv99aILh1MfU",
+          "name" : "Delta Skyclub",
+          "locationConfidence" : 2.4596298
+        }, {
+          "latitudeE7" : 406441229,
+          "longitudeE7" : -737822646,
+          "placeId" : "ChIJg7gixVlmwokRl0oyqrGK-tI",
+          "name" : "JFK international Islamic Center",
+          "locationConfidence" : 1.4988345
+        }, {
+          "latitudeE7" : 406455450,
+          "longitudeE7" : -737820340,
+          "placeId" : "ChIJq0M7OlhmwokRusBTxguJ3-U",
+          "name" : "ABM - Facility Services",
+          "locationConfidence" : 1.4774312
+        }, {
+          "latitudeE7" : 406435272,
+          "longitudeE7" : -737828575,
+          "placeId" : "ChIJffw5w1lmwokR_zLJ-l0aErg",
+          "name" : "U.S. Customs and Border Protection",
+          "locationConfidence" : 1.1946644
+        }, {
+          "latitudeE7" : 406441198,
+          "longitudeE7" : -737814992,
+          "placeId" : "ChIJ_eQYpFdmwokRBdIqLqmOMls",
+          "name" : "Dunkin' Donuts",
+          "locationConfidence" : 0.7969324
+        }, {
+          "latitudeE7" : 406435829,
+          "longitudeE7" : -737821298,
+          "placeId" : "ChIJ4X2swllmwokRPED1by1HOB0",
+          "name" : "McDonald's",
+          "locationConfidence" : 0.7771233
+        }, {
+          "latitudeE7" : 406437675,
+          "longitudeE7" : -737822508,
+          "placeId" : "ChIJo1ngwllmwokRG9tQ7tlIUmQ",
+          "name" : "Central Diner",
+          "locationConfidence" : 0.5446671
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 406441203,
+      "centerLngE7" : -737818139,
+      "visitConfidence" : 92,
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 406436844,
+          "lngE7" : -737817017,
+          "timestampMs" : "1517243695508",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 406449368,
+          "lngE7" : -737818450,
+          "timestampMs" : "1517244240090",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 406443385,
+          "lngE7" : -737818205,
+          "timestampMs" : "1517245692678",
+          "accuracyMeters" : 30
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 406413111,
+        "longitudeE7" : -737781391
+      },
+      "endLocation" : {
+        "latitudeE7" : 407504554,
+        "longitudeE7" : -739922046
+      },
+      "duration" : {
+        "startTimestampMs" : "1517246559449",
+        "endTimestampMs" : "1517249081000"
+      },
+      "distance" : 30343,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.81397270061265
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 12.81725915245964
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.073592884858546
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 406446304,
+          "lngE7" : -737773666
+        }, {
+          "latE7" : 406580657,
+          "lngE7" : -737740097
+        }, {
+          "latE7" : 407070198,
+          "lngE7" : -739464721
+        }, {
+          "latE7" : 407432518,
+          "lngE7" : -739432678
+        }, {
+          "latE7" : 407498931,
+          "lngE7" : -739939117
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407441633,
+          "lngE7" : -739439041,
+          "timestampMs" : "1517248351198",
+          "accuracyMeters" : 100
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1517249081000",
+        "location" : {
+          "latitudeE7" : 407504554,
+          "longitudeE7" : -739922046,
+          "accuracyMetres" : 16
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407505680,
+        "longitudeE7" : -739935190,
+        "placeId" : "ChIJy62yFa5ZwokRun79NAZCVXk",
+        "address" : "New York, NY 10119\nUSA",
+        "name" : "Pennsylvania Station",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 75.09057
+      },
+      "duration" : {
+        "startTimestampMs" : "1517249081000",
+        "endTimestampMs" : "1517249510177"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 407499088,
+      "centerLngE7" : -739920875,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407502954,
+        "longitudeE7" : -739917091,
+        "placeId" : "ChIJ30krXK5ZwokRx1ADjIRwShw",
+        "name" : "The Pennsy Food Hall",
+        "locationConfidence" : 4.0099244
+      }, {
+        "latitudeE7" : 407503031,
+        "longitudeE7" : -739909059,
+        "placeId" : "ChIJFeGVk65ZwokRM13NKNi4ReM",
+        "name" : "Penn Station",
+        "locationConfidence" : 3.6292763
+      }, {
+        "latitudeE7" : 407487055,
+        "longitudeE7" : -739916558,
+        "placeId" : "ChIJE8nmAK9ZwokRt9a0QLhSUDE",
+        "name" : "Stewart Hotel New York",
+        "locationConfidence" : 2.329455
+      }, {
+        "latitudeE7" : 407503223,
+        "longitudeE7" : -739908707,
+        "placeId" : "ChIJ1wgCkq5ZwokRVUdpNYPS3V0",
+        "name" : "34 St - Penn Station",
+        "locationConfidence" : 1.6162877
+      }, {
+        "latitudeE7" : 407505045,
+        "longitudeE7" : -739934387,
+        "placeId" : "ChIJhRwB-yFawokR5Phil-QQ3zM",
+        "name" : "Madison Square Garden",
+        "locationConfidence" : 1.2259171
+      }, {
+        "latitudeE7" : 407500794,
+        "longitudeE7" : -739921581,
+        "placeId" : "ChIJ9dGSYa5ZwokRn0lLvutCRag",
+        "name" : "One Direction World",
+        "locationConfidence" : 0.98885816
+      }, {
+        "latitudeE7" : 407501350,
+        "longitudeE7" : -739906750,
+        "placeId" : "ChIJv3OFlK5ZwokRsvJDr9arpg4",
+        "name" : "Penn Station",
+        "locationConfidence" : 0.74582046
+      }, {
+        "latitudeE7" : 407497723,
+        "longitudeE7" : -739906244,
+        "placeId" : "ChIJWbSN8q5ZwokRpLN00upxy8g",
+        "name" : "Hotel Pennsylvania",
+        "locationConfidence" : 0.47549582
+      }, {
+        "latitudeE7" : 407499128,
+        "longitudeE7" : -739921796,
+        "placeId" : "ChIJiag-Wq5ZwokR9x2Wlf7j7dc",
+        "name" : "Krispy Kreme",
+        "locationConfidence" : 0.37593165
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407504554,
+          "lngE7" : -739922046,
+          "timestampMs" : "1517249081000",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 407499190,
+          "lngE7" : -739916592,
+          "timestampMs" : "1517249213229",
+          "accuracyMeters" : 66
+        }, {
+          "latE7" : 407495234,
+          "lngE7" : -739924358,
+          "timestampMs" : "1517249346000",
+          "accuracyMeters" : 4
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407502002,
+        "longitudeE7" : -739913350
+      },
+      "endLocation" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840
+      },
+      "duration" : {
+        "startTimestampMs" : "1517249510177",
+        "endTimestampMs" : "1517250015201"
+      },
+      "distance" : 634,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.72667710451005
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.3639891785343739
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.3241514182110089
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407501716,
+          "lngE7" : -739912719
+        }, {
+          "latE7" : 407556762,
+          "lngE7" : -739919052
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840,
+        "placeId" : "ChIJCQeW2KxZwokRcFA1jngEs_8",
+        "address" : "311 West 39th Street Between 8th And\n9th Ave\nNew York, NY 10018\nUSA",
+        "name" : "Element New York Times Square West",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 87.20207
+      },
+      "duration" : {
+        "startTimestampMs" : "1517250015201",
+        "endTimestampMs" : "1517255385390"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 407557900,
+      "centerLngE7" : -739919383,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407555230,
+        "longitudeE7" : -739922280,
+        "placeId" : "ChIJIyPvw6xZwokRizSsCqsfNnM",
+        "name" : "Star Snaps NYC",
+        "locationConfidence" : 0.38419092
+      }, {
+        "latitudeE7" : 407556368,
+        "longitudeE7" : -739924626,
+        "placeId" : "ChIJtWTdJK1ZwokRBuYfuOpomJI",
+        "name" : "Kaback Enterprises",
+        "locationConfidence" : 0.28724313
+      }, {
+        "latitudeE7" : 407547099,
+        "longitudeE7" : -739920068,
+        "placeId" : "ChIJhYf2NKlQwokRncjOZQSE-S4",
+        "name" : "Hays - Recruitment Agency New York",
+        "locationConfidence" : 0.28400782
+      }, {
+        "latitudeE7" : 407551950,
+        "longitudeE7" : -739922210,
+        "placeId" : "ChIJ8bUFIq1ZwokRlBDqT-22b4M",
+        "name" : "InterviewJet",
+        "locationConfidence" : 0.23588975
+      }, {
+        "latitudeE7" : 407549226,
+        "longitudeE7" : -739911523,
+        "placeId" : "ChIJ6Rg3plRYwokRIG8dnRNgmP0",
+        "name" : "The Tour",
+        "locationConfidence" : 0.2010462
+      }, {
+        "latitudeE7" : 407547099,
+        "longitudeE7" : -739920068,
+        "placeId" : "ChIJdS6L9qxZwokRPBs2HGWMVLk",
+        "name" : "Gem Stone King",
+        "locationConfidence" : 0.1999779
+      }, {
+        "latitudeE7" : 407556408,
+        "longitudeE7" : -739906036,
+        "placeId" : "ChIJCzvmzqxZwokRL_nrcxZttgM",
+        "name" : "Elegant Eyebrow Threading Salon",
+        "locationConfidence" : 0.19972657
+      }, {
+        "latitudeE7" : 407552526,
+        "longitudeE7" : -739907518,
+        "placeId" : "ChIJscmxxqxZwokRPK2r3wosnEw",
+        "name" : "Vardhman Inc",
+        "locationConfidence" : 0.19616279
+      }, {
+        "latitudeE7" : 407553940,
+        "longitudeE7" : -739915870,
+        "placeId" : "ChIJo1fD3qxZwokRbZYMZNQ9HhM",
+        "name" : "Heiberger & Associates, PC",
+        "locationConfidence" : 0.17988503
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840
+      },
+      "endLocation" : {
+        "latitudeE7" : 407588950,
+        "longitudeE7" : -739851310
+      },
+      "duration" : {
+        "startTimestampMs" : "1517255385390",
+        "endTimestampMs" : "1517255867536"
+      },
+      "distance" : 745,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.36130913269587
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.5128828826616787
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.40773416846856103
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407556762,
+          "lngE7" : -739919052
+        }, {
+          "latE7" : 407589263,
+          "lngE7" : -739852905
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407588950,
+        "longitudeE7" : -739851310,
+        "placeId" : "ChIJmQJIxlVYwokRLgeuocVOGVU",
+        "address" : "Manhattan, NY 10036\nUSA",
+        "name" : "Times Square",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 80.8688
+      },
+      "duration" : {
+        "startTimestampMs" : "1517255867536",
+        "endTimestampMs" : "1517258149694"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 407586333,
+      "centerLngE7" : -739849448,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407593411,
+        "longitudeE7" : -739843095,
+        "placeId" : "ChIJ94ae2FVYwokRkeOWg5EA8aQ",
+        "name" : "Hershey's Chocolate World",
+        "locationConfidence" : 1.5595245
+      }, {
+        "latitudeE7" : 407581286,
+        "longitudeE7" : -739851431,
+        "placeId" : "ChIJSxXBuVVYwokRraobvN4_zfs",
+        "name" : "Forever 21",
+        "locationConfidence" : 0.44947147
+      }, {
+        "latitudeE7" : 407586180,
+        "longitudeE7" : -739862200,
+        "placeId" : "ChIJiVXoAFVYwokREqPijh-d8xg",
+        "name" : "New York Marriott Marquis",
+        "locationConfidence" : 0.4113017
+      }, {
+        "latitudeE7" : 407578497,
+        "longitudeE7" : -739858773,
+        "placeId" : "ChIJt1Be91RYwokRq2XhokPaPqI",
+        "name" : "Line Friends New York Times Square Store",
+        "locationConfidence" : 0.40337574
+      }, {
+        "latitudeE7" : 407596168,
+        "longitudeE7" : -739846790,
+        "placeId" : "ChIJYWF63VVYwokRmySNl6CiXZw",
+        "name" : "BIG BUS WELCOME CENTER",
+        "locationConfidence" : 0.27527454
+      }, {
+        "latitudeE7" : 407587159,
+        "longitudeE7" : -739847719,
+        "placeId" : "ChIJnSckglRYwokRuCkWk7fPUYs",
+        "name" : "McDonald's",
+        "locationConfidence" : 0.21091565
+      }, {
+        "latitudeE7" : 407580514,
+        "longitudeE7" : -739848436,
+        "placeId" : "ChIJ8x7QCVVYwokRwfevifmf0rw",
+        "name" : "Kildonan Castle",
+        "locationConfidence" : 0.16267012
+      }, {
+        "latitudeE7" : 407585313,
+        "longitudeE7" : -739855731,
+        "placeId" : "ChIJk0cOUlRYwokRo5nthfQM0nQ",
+        "name" : "Uniqlo Times Square Pop Up",
+        "locationConfidence" : 0.16027647
+      }, {
+        "latitudeE7" : 407585910,
+        "longitudeE7" : -739846200,
+        "placeId" : "ChIJz9JVvFVYwokRBl7lHFrWNDA",
+        "name" : "ProHealth Foot & Ankle Surgeons",
+        "locationConfidence" : 0.15793307
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407592218,
+        "longitudeE7" : -739850620
+      },
+      "endLocation" : {
+        "latitudeE7" : 407685930,
+        "longitudeE7" : -739831670
+      },
+      "duration" : {
+        "startTimestampMs" : "1517258149694",
+        "endTimestampMs" : "1517259196844"
+      },
+      "distance" : 1148,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.73565651145428
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.9587826318258977
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.5265133788559135
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407592430,
+          "lngE7" : -739851837
+        }, {
+          "latE7" : 407683563,
+          "lngE7" : -739825515
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407685930,
+        "longitudeE7" : -739831670,
+        "placeId" : "ChIJp3PsL_ZYwokRdBcE-3KTjrg",
+        "address" : "10 Columbus Cir\nNew York, NY 10019\nUSA",
+        "name" : "The Shops at Columbus Circle",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 83.83828
+      },
+      "duration" : {
+        "startTimestampMs" : "1517259196844",
+        "endTimestampMs" : "1517260661494"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 407687327,
+          "longitudeE7" : -739832540,
+          "placeId" : "ChIJYz4TH4tYwokR01YlU0ke0uA",
+          "address" : "10 Columbus Cir\nNew York, NY 10019\nUSA",
+          "name" : "Papyrus",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 69.03334
+        },
+        "duration" : {
+          "startTimestampMs" : "1517259265302",
+          "endTimestampMs" : "1517259476335"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 407683721,
+        "centerLngE7" : -739823880,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407685068,
+          "longitudeE7" : -739831349,
+          "placeId" : "ChIJ1-edm1hYwokRtqcmk66UT6g",
+          "name" : "Time Warner Center",
+          "locationConfidence" : 6.385024
+        }, {
+          "latitudeE7" : 407684251,
+          "longitudeE7" : -739831903,
+          "placeId" : "ChIJ0ThIoFhYwokRFE3FN8sm-Ro",
+          "name" : "Eileen Fisher",
+          "locationConfidence" : 1.3588433
+        }, {
+          "latitudeE7" : 407685930,
+          "longitudeE7" : -739831670,
+          "placeId" : "ChIJn7oqIfZYwokRDMxFxx_mO6M",
+          "name" : "Moleskine - Time Warner Center",
+          "locationConfidence" : 0.45814362
+        }, {
+          "latitudeE7" : 407681640,
+          "longitudeE7" : -739827500,
+          "placeId" : "ChIJp3PsL_ZYwokRUToZsr1kBlw",
+          "name" : "J.Crew Mens Shop",
+          "locationConfidence" : 0.35700384
+        }, {
+          "latitudeE7" : 407686152,
+          "longitudeE7" : -739832740,
+          "placeId" : "ChIJNf6lJPZYwokRSah0GtDvF74",
+          "name" : "Michael Kors",
+          "locationConfidence" : 0.29260254
+        }, {
+          "latitudeE7" : 407683860,
+          "longitudeE7" : -739827853,
+          "placeId" : "ChIJyW-HnlhYwokRF0r1poqlf5o",
+          "name" : "Sugarfina New York - Time Warner Center",
+          "locationConfidence" : 0.16705671
+        }, {
+          "latitudeE7" : 407685930,
+          "longitudeE7" : -739831670,
+          "placeId" : "ChIJp3PsL_ZYwokRdBcE-3KTjrg",
+          "name" : "The Shops at Columbus Circle",
+          "locationConfidence" : 0.06379354
+        }, {
+          "latitudeE7" : 407684141,
+          "longitudeE7" : -739827037,
+          "placeId" : "ChIJ5RzWn1hYwokRHSMDq-RLsjU",
+          "name" : "Bouchon Bakery & Café",
+          "locationConfidence" : 0.05600934
+        }, {
+          "latitudeE7" : 407680952,
+          "longitudeE7" : -739829752,
+          "placeId" : "ChIJ2SP6J_ZYwokRQi8kHWTmplE",
+          "name" : "La Maison du Chocolat",
+          "locationConfidence" : 0.0465486
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 407689580,
+          "longitudeE7" : -739827760,
+          "placeId" : "ChIJCUGAIfZYwokRe0__-CzQoWM",
+          "address" : "10 Columbus Cir\nNew York, NY 10019\nUSA",
+          "name" : "New York Running Company powered by JackRabbit",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 72.00914
+        },
+        "duration" : {
+          "startTimestampMs" : "1517259643449",
+          "endTimestampMs" : "1517259723509"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 407687732,
+        "centerLngE7" : -739824717,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407685930,
+          "longitudeE7" : -739831670,
+          "placeId" : "ChIJp3PsL_ZYwokRdBcE-3KTjrg",
+          "name" : "The Shops at Columbus Circle",
+          "locationConfidence" : 1.1967419
+        }, {
+          "latitudeE7" : 407688844,
+          "longitudeE7" : -739830440,
+          "placeId" : "ChIJL83lHfZYwokRnd7wA8PLD1E",
+          "name" : "Mandarin Oriental, New York",
+          "locationConfidence" : 0.39605802
+        }, {
+          "latitudeE7" : 407693031,
+          "longitudeE7" : -739823911,
+          "placeId" : "ChIJNeDcBPZYwokR9FyyK8y69YM",
+          "name" : "Sabon",
+          "locationConfidence" : 0.20506068
+        }, {
+          "latitudeE7" : 407692590,
+          "longitudeE7" : -739826730,
+          "placeId" : "ChIJVZpFG_ZYwokRULCnpKK5j2I",
+          "name" : "Jacadi",
+          "locationConfidence" : 0.18053946
+        }, {
+          "latitudeE7" : 407689080,
+          "longitudeE7" : -739825020,
+          "placeId" : "ChIJp3PsL_ZYwokRtpy23WdgnCY",
+          "name" : "Thomas Pink",
+          "locationConfidence" : 0.1795149
+        }, {
+          "latitudeE7" : 407686000,
+          "longitudeE7" : -739825934,
+          "placeId" : "ChIJp3PsL_ZYwokRndGmpYcgFYE",
+          "name" : "BOSS Store",
+          "locationConfidence" : 0.16475858
+        }, {
+          "latitudeE7" : 407685775,
+          "longitudeE7" : -739831832,
+          "placeId" : "ChIJBzLkHfZYwokRPytGsd4hwX0",
+          "name" : "MO bar",
+          "locationConfidence" : 0.15918182
+        }, {
+          "latitudeE7" : 407683860,
+          "longitudeE7" : -739827853,
+          "placeId" : "ChIJyW-HnlhYwokRF0r1poqlf5o",
+          "name" : "Sugarfina New York - Time Warner Center",
+          "locationConfidence" : 0.14601332
+        }, {
+          "latitudeE7" : 407680952,
+          "longitudeE7" : -739829752,
+          "placeId" : "ChIJ2SP6J_ZYwokRQi8kHWTmplE",
+          "name" : "La Maison du Chocolat",
+          "locationConfidence" : 0.14579678
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 407687327,
+          "longitudeE7" : -739832540,
+          "placeId" : "ChIJYz4TH4tYwokR01YlU0ke0uA",
+          "address" : "10 Columbus Cir\nNew York, NY 10019\nUSA",
+          "name" : "Papyrus",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 38.294144
+        },
+        "duration" : {
+          "startTimestampMs" : "1517259820149",
+          "endTimestampMs" : "1517259935775"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 407686070,
+        "centerLngE7" : -739825979,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407685068,
+          "longitudeE7" : -739831349,
+          "placeId" : "ChIJ1-edm1hYwokRtqcmk66UT6g",
+          "name" : "Time Warner Center",
+          "locationConfidence" : 12.501464
+        }, {
+          "latitudeE7" : 407687344,
+          "longitudeE7" : -739829274,
+          "placeId" : "ChIJp3PsL_ZYwokRTveXjg4HCwc",
+          "name" : "Aveda Store",
+          "locationConfidence" : 6.4750977
+        }, {
+          "latitudeE7" : 407689280,
+          "longitudeE7" : -739827490,
+          "placeId" : "ChIJp3PsL_ZYwokRXAoN9u00rfA",
+          "name" : "Landmarc",
+          "locationConfidence" : 5.11975
+        }, {
+          "latitudeE7" : 407686152,
+          "longitudeE7" : -739832740,
+          "placeId" : "ChIJNf6lJPZYwokRSah0GtDvF74",
+          "name" : "Michael Kors",
+          "locationConfidence" : 3.6811209
+        }, {
+          "latitudeE7" : 407681640,
+          "longitudeE7" : -739827500,
+          "placeId" : "ChIJp3PsL_ZYwokRUToZsr1kBlw",
+          "name" : "J.Crew Mens Shop",
+          "locationConfidence" : 3.3284717
+        }, {
+          "latitudeE7" : 407684141,
+          "longitudeE7" : -739827037,
+          "placeId" : "ChIJ5RzWn1hYwokRHSMDq-RLsjU",
+          "name" : "Bouchon Bakery & Café",
+          "locationConfidence" : 2.495969
+        }, {
+          "latitudeE7" : 407676409,
+          "longitudeE7" : -739839451,
+          "placeId" : "ChIJa_WeMfZYwokRIFakt9a6e44",
+          "name" : "Papyrus",
+          "locationConfidence" : 1.8261101
+        }, {
+          "latitudeE7" : 407686000,
+          "longitudeE7" : -739825934,
+          "placeId" : "ChIJp3PsL_ZYwokRndGmpYcgFYE",
+          "name" : "BOSS Store",
+          "locationConfidence" : 1.8056399
+        }, {
+          "latitudeE7" : 407683860,
+          "longitudeE7" : -739827853,
+          "placeId" : "ChIJyW-HnlhYwokRF0r1poqlf5o",
+          "name" : "Sugarfina New York - Time Warner Center",
+          "locationConfidence" : 1.2863872
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 407688844,
+          "longitudeE7" : -739830440,
+          "placeId" : "ChIJL83lHfZYwokRnd7wA8PLD1E",
+          "address" : "80 Columbus Cir\nNew York, NY 10023\nUSA",
+          "name" : "Mandarin Oriental, New York",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 71.277115
+        },
+        "duration" : {
+          "startTimestampMs" : "1517260025001",
+          "endTimestampMs" : "1517260435513"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 407689105,
+        "centerLngE7" : -739829033,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407689580,
+          "longitudeE7" : -739827760,
+          "placeId" : "ChIJCUGAIfZYwokRe0__-CzQoWM",
+          "name" : "New York Running Company powered by JackRabbit",
+          "locationConfidence" : 12.551728
+        }, {
+          "latitudeE7" : 407677376,
+          "longitudeE7" : -739836206,
+          "placeId" : "ChIJ1S1EhlhYwokRfCCoKH7LBP0",
+          "name" : "Daniel Garza",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407677127,
+          "longitudeE7" : -739836472,
+          "placeId" : "ChIJAfRmj1hYwokRbiths2aR7TY",
+          "name" : "Quinton B. Wilkes, PHD",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407689106,
+          "longitudeE7" : -739827843,
+          "placeId" : "ChIJ56qPHvZYwokR6hv40WKZCjo",
+          "name" : "60 Columbus Circle",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407694194,
+          "longitudeE7" : -739824979,
+          "placeId" : "ChIJVZpFG_ZYwokRri_fCBIU_mM",
+          "name" : "Nancy Arnold Payne, LCSW",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407693324,
+          "longitudeE7" : -739840589,
+          "placeId" : "ChIJ_xyPu0X9ZUARCwrBd2ohKlg",
+          "name" : "Dr. Oscar B. Garfein, MD",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407677499,
+          "longitudeE7" : -739837835,
+          "placeId" : "ChIJAfRmj1hYwokR7PMtB_fQuzo",
+          "name" : "Sylvia F. Blaustein, CNM",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407677356,
+          "longitudeE7" : -739836837,
+          "placeId" : "ChIJ03cwhlhYwokRDb62TGyjMw8",
+          "name" : "Weiss Michael MD",
+          "locationConfidence" : 1.4409136E-5
+        }, {
+          "latitudeE7" : 407693397,
+          "longitudeE7" : -739824486,
+          "placeId" : "ChIJM5dfA_ZYwokRoWkwwEm38bI",
+          "name" : "Bridge Back To Life",
+          "locationConfidence" : 1.4409136E-5
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 407686350,
+      "centerLngE7" : -739825896,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407680797,
+        "longitudeE7" : -739818957,
+        "placeId" : "ChIJDzorOvZYwokRW5XN4_UBY8w",
+        "name" : "Columbus Circle",
+        "locationConfidence" : 1.7292337
+      }, {
+        "latitudeE7" : 407828647,
+        "longitudeE7" : -739653551,
+        "placeId" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+        "name" : "Central Park",
+        "locationConfidence" : 1.3935434
+      }, {
+        "latitudeE7" : 407673230,
+        "longitudeE7" : -739835856,
+        "placeId" : "ChIJI-cGZVhYwokRZzKA9CADS1E",
+        "name" : "St Luke's Roosevelt Hospital Center: Dinnall Vanessa MD",
+        "locationConfidence" : 0.37258753
+      }, {
+        "latitudeE7" : 407671243,
+        "longitudeE7" : -739830144,
+        "placeId" : "ChIJNTWqeFhYwokRqT75JLYLtMw",
+        "name" : "Kit's Underground Wines and Spirits",
+        "locationConfidence" : 0.22286592
+      }, {
+        "latitudeE7" : 407677127,
+        "longitudeE7" : -739836472,
+        "placeId" : "ChIJCwQ2hlhYwokRTM0ByQBIxEc",
+        "name" : "Cohen Medical Practice: Gynecology Office",
+        "locationConfidence" : 0.215544
+      }, {
+        "latitudeE7" : 407694610,
+        "longitudeE7" : -739825829,
+        "placeId" : "ChIJNQptBPZYwokROBHqFxpmeXM",
+        "name" : "Giella Custom Cosmetics",
+        "locationConfidence" : 0.19790551
+      }, {
+        "latitudeE7" : 407685425,
+        "longitudeE7" : -739817813,
+        "placeId" : "ChIJlU2peFhYwokR0HIlsOFKqxM",
+        "name" : "Arepa Factory",
+        "locationConfidence" : 0.18826552
+      }, {
+        "latitudeE7" : 407692662,
+        "longitudeE7" : -739825737,
+        "placeId" : "ChIJVZpFG_ZYwokRAKFNd0O4mEg",
+        "name" : "Oasis Chiropractic",
+        "locationConfidence" : 0.17224701
+      }, {
+        "latitudeE7" : 407677498,
+        "longitudeE7" : -739836006,
+        "placeId" : "ChIJAfRmj1hYwokRnsprUb09sMI",
+        "name" : "Sally Fisher PR",
+        "locationConfidence" : 0.17088749
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407685930,
+        "longitudeE7" : -739831670
+      },
+      "endLocation" : {
+        "latitudeE7" : 407622970,
+        "longitudeE7" : -739734650
+      },
+      "duration" : {
+        "startTimestampMs" : "1517260661494",
+        "endTimestampMs" : "1517261526757"
+      },
+      "distance" : 1046,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.6427300001783
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.36835107865905264
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.32857084045292484
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407683563,
+          "lngE7" : -739825515
+        }, {
+          "latE7" : 407620086,
+          "lngE7" : -739736785
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407622970,
+        "longitudeE7" : -739734650,
+        "placeId" : "ChIJ6-1bTeRYwokRHZNg6ikusek",
+        "address" : "6 E 57th St\nNew York, NY 10022\nUSA",
+        "name" : "NikeTown New York",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 93.905876
+      },
+      "duration" : {
+        "startTimestampMs" : "1517261526757",
+        "endTimestampMs" : "1517262731183"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 407624923,
+      "centerLngE7" : -739733908,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407624284,
+        "longitudeE7" : -739737940,
+        "placeId" : "ChIJrc9T9fpYwokRdvjYRHT8nI4",
+        "name" : "Trump Tower",
+        "locationConfidence" : 3.9555252
+      }, {
+        "latitudeE7" : 407622055,
+        "longitudeE7" : -739726660,
+        "placeId" : "ChIJpzIwwPpYwokRk5ny24qwb_o",
+        "name" : "Crowell & Moring LLP - New York Office",
+        "locationConfidence" : 0.07790528
+      }, {
+        "latitudeE7" : 407619219,
+        "longitudeE7" : -739742313,
+        "placeId" : "ChIJkTRW9_pYwokRagYO1wbhXN4",
+        "name" : "Corsair Capital",
+        "locationConfidence" : 0.05099142
+      }, {
+        "latitudeE7" : 407628947,
+        "longitudeE7" : -739731687,
+        "placeId" : "ChIJDTTLC_pYwokRJJZCeVObVPs",
+        "name" : "J. Sisters",
+        "locationConfidence" : 0.046625484
+      }, {
+        "latitudeE7" : 407629027,
+        "longitudeE7" : -739731543,
+        "placeId" : "ChIJdaI8LPBYwokR9o-2eI7sLNU",
+        "name" : "Trish McEvoy Skin Care Center",
+        "locationConfidence" : 0.045343287
+      }, {
+        "latitudeE7" : 407632750,
+        "longitudeE7" : -739732680,
+        "placeId" : "ChIJ3_Ibg_pYwokRHdXsoUcBoZY",
+        "name" : "Edwynn Houk Gallery",
+        "locationConfidence" : 0.045214064
+      }, {
+        "latitudeE7" : 407619505,
+        "longitudeE7" : -739742997,
+        "placeId" : "ChIJ1f7JVvpYwokRZNzKLW_oBww",
+        "name" : "Tiger Infrastructure Partners",
+        "locationConfidence" : 0.04424662
+      }, {
+        "latitudeE7" : 407629848,
+        "longitudeE7" : -739723737,
+        "placeId" : "ChIJvR1oHPtYwokRDUGHvzr9lCY",
+        "name" : "Financo",
+        "locationConfidence" : 0.042486284
+      }, {
+        "latitudeE7" : 407620740,
+        "longitudeE7" : -739730890,
+        "placeId" : "ChIJyVvFUvxYwokRnjxjI2PzvH0",
+        "name" : "Odyssey Investment Partners",
+        "locationConfidence" : 0.04247329
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407622970,
+        "longitudeE7" : -739734650
+      },
+      "endLocation" : {
+        "latitudeE7" : 407511386,
+        "longitudeE7" : -739915448
+      },
+      "duration" : {
+        "startTimestampMs" : "1517262731183",
+        "endTimestampMs" : "1517264998141"
+      },
+      "distance" : 2687,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.34384445418294
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.9829911851179648
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.8020484546612404
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407620086,
+          "lngE7" : -739736785
+        }, {
+          "latE7" : 407510719,
+          "lngE7" : -739913940
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407511386,
+        "longitudeE7" : -739915448,
+        "placeId" : "ChIJC6dyvKlZwokRe0SjbL-BbU0",
+        "address" : "250 W 34th St\nNew York, NY 10119\nUSA",
+        "name" : "Kmart",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 83.728546
+      },
+      "duration" : {
+        "startTimestampMs" : "1517264998141",
+        "endTimestampMs" : "1517265968142"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 407510500,
+      "centerLngE7" : -739915433,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407512149,
+        "longitudeE7" : -739922235,
+        "placeId" : "ChIJt5oDQq5ZwokRKf2SvJ-RlQc",
+        "name" : "Jamba Juice Penn Station",
+        "locationConfidence" : 6.1815147
+      }, {
+        "latitudeE7" : 407510754,
+        "longitudeE7" : -739912081,
+        "placeId" : "ChIJv9s51a1ZwokRmSBefVIdBsk",
+        "name" : "Garrett Popcorn Shops",
+        "locationConfidence" : 2.5800934
+      }, {
+        "latitudeE7" : 407511838,
+        "longitudeE7" : -739921394,
+        "placeId" : "ChIJhZJ3Yq5ZwokRdFC1fLmEsyg",
+        "name" : "Starbucks",
+        "locationConfidence" : 1.4708238
+      }, {
+        "latitudeE7" : 407502954,
+        "longitudeE7" : -739917091,
+        "placeId" : "ChIJ30krXK5ZwokRx1ADjIRwShw",
+        "name" : "The Pennsy Food Hall",
+        "locationConfidence" : 0.96693933
+      }, {
+        "latitudeE7" : 407517423,
+        "longitudeE7" : -739918628,
+        "placeId" : "ChIJj1RX061ZwokRYPJCvSaHRUM",
+        "name" : "Ewing Cole",
+        "locationConfidence" : 0.16938132
+      }, {
+        "latitudeE7" : 407514560,
+        "longitudeE7" : -739907080,
+        "placeId" : "ChIJq5hGIKxZwokRg68CLloLaDs",
+        "name" : "Tobin Kohane, Esq.",
+        "locationConfidence" : 0.14007525
+      }, {
+        "latitudeE7" : 407514516,
+        "longitudeE7" : -739907621,
+        "placeId" : "ChIJfWFby61ZwokRLERu6FPFdDM",
+        "name" : "Barzilay & Goldberg Buying Office",
+        "locationConfidence" : 0.12641138
+      }, {
+        "latitudeE7" : 407511762,
+        "longitudeE7" : -739915447,
+        "placeId" : "ChIJDy4b5q1ZwokRcYGHp_WNIn0",
+        "name" : "Gary Evans DPM",
+        "locationConfidence" : 0.12583321
+      }, {
+        "latitudeE7" : 407514560,
+        "longitudeE7" : -739907080,
+        "placeId" : "ChIJq5hGIKxZwokRjjnL4MVEGcE",
+        "name" : "New Yorkers For Children",
+        "locationConfidence" : 0.112246305
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407511386,
+        "longitudeE7" : -739915448
+      },
+      "endLocation" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840
+      },
+      "duration" : {
+        "startTimestampMs" : "1517265968142",
+        "endTimestampMs" : "1517266334320"
+      },
+      "distance" : 429,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.6221848900755
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.49717502057858126
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.3102912398050655
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407510719,
+          "lngE7" : -739913940
+        }, {
+          "latE7" : 407556762,
+          "lngE7" : -739919052
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840,
+        "placeId" : "ChIJCQeW2KxZwokRcFA1jngEs_8",
+        "address" : "311 West 39th Street Between 8th And\n9th Ave\nNew York, NY 10018\nUSA",
+        "name" : "Element New York Times Square West",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 94.47981
+      },
+      "duration" : {
+        "startTimestampMs" : "1517266334320",
+        "endTimestampMs" : "1517322022065"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 407557818,
+      "centerLngE7" : -739920167,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407556439,
+        "longitudeE7" : -739914487,
+        "placeId" : "ChIJ0_qKRaNZwokR4e3ZHVVG8DU",
+        "name" : "Hunk-O-Mania",
+        "locationConfidence" : 0.26506874
+      }, {
+        "latitudeE7" : 407560541,
+        "longitudeE7" : -739913247,
+        "placeId" : "ChIJ08dY0axZwokRkAhbeV-hV0I",
+        "name" : "Athens Wine and Spirits",
+        "locationConfidence" : 0.19331686
+      }, {
+        "latitudeE7" : 407555230,
+        "longitudeE7" : -739922280,
+        "placeId" : "ChIJIyPvw6xZwokRizSsCqsfNnM",
+        "name" : "Star Snaps NYC",
+        "locationConfidence" : 0.1471797
+      }, {
+        "latitudeE7" : 407556368,
+        "longitudeE7" : -739924626,
+        "placeId" : "ChIJtWTdJK1ZwokRBuYfuOpomJI",
+        "name" : "Kaback Enterprises",
+        "locationConfidence" : 0.12332164
+      }, {
+        "latitudeE7" : 407556110,
+        "longitudeE7" : -739920974,
+        "placeId" : "ChIJIZ_TsK1ZwokROuaCaq0H9mU",
+        "name" : "Sharan Deli of New York Inc",
+        "locationConfidence" : 0.11045932
+      }, {
+        "latitudeE7" : 407553402,
+        "longitudeE7" : -739908310,
+        "placeId" : "ChIJAQEVxaxZwokRDxHYa5SPB78",
+        "name" : "Restaurante Mexicano",
+        "locationConfidence" : 0.103523634
+      }, {
+        "latitudeE7" : 407551949,
+        "longitudeE7" : -739922208,
+        "placeId" : "ChIJh_Jx_6xZwokRyoUC9moX4I8",
+        "name" : "JPO Concepts",
+        "locationConfidence" : 0.10239257
+      }, {
+        "latitudeE7" : 407552018,
+        "longitudeE7" : -739921581,
+        "placeId" : "ChIJCaTwIa1ZwokResYT1lMFP8s",
+        "name" : "Lightprint",
+        "locationConfidence" : 0.09220797
+      }, {
+        "latitudeE7" : 407553940,
+        "longitudeE7" : -739915870,
+        "placeId" : "ChIJo1fD3qxZwokRbZYMZNQ9HhM",
+        "name" : "Heiberger & Associates, PC",
+        "locationConfidence" : 0.06977931
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840
+      },
+      "endLocation" : {
+        "latitudeE7" : 407380309,
+        "longitudeE7" : -740010738
+      },
+      "duration" : {
+        "startTimestampMs" : "1517322022065",
+        "endTimestampMs" : "1517325736372"
+      },
+      "distance" : 3817,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.53899654063923
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.811731822679449
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.48725376831998635
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407556762,
+          "lngE7" : -739919052
+        }, {
+          "latE7" : 407507095,
+          "lngE7" : -740027313
+        }, {
+          "latE7" : 407381591,
+          "lngE7" : -740009765
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407507164,
+          "lngE7" : -740027553,
+          "timestampMs" : "1517323343615",
+          "accuracyMeters" : 19
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407380309,
+        "longitudeE7" : -740010738,
+        "placeId" : "ChIJN9xKAr5ZwokRDZ6yOq4y-yM",
+        "address" : "208 W 13th St\nNew York, NY 10011\nUSA",
+        "name" : "The Lesbian, Gay, Bisexual & Transgender Community Center",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 71.316795
+      },
+      "duration" : {
+        "startTimestampMs" : "1517325736372",
+        "endTimestampMs" : "1517327101284"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 407384433,
+      "centerLngE7" : -740012852,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407380161,
+        "longitudeE7" : -740011104,
+        "placeId" : "ChIJMRdGAr5ZwokR5CJP3tNNsZI",
+        "name" : "Think Coffee Center",
+        "locationConfidence" : 16.861813
+      }, {
+        "latitudeE7" : 407387130,
+        "longitudeE7" : -740009460,
+        "placeId" : "ChIJ159PCr5ZwokR6XVUW_GlwWc",
+        "name" : "Teamsters Local 237 Education & Training Department",
+        "locationConfidence" : 0.33264196
+      }, {
+        "latitudeE7" : 407385932,
+        "longitudeE7" : -740003269,
+        "placeId" : "ChIJV3bt471ZwokRKML4RCw5ZLk",
+        "name" : "May's Nail Salon",
+        "locationConfidence" : 0.2525018
+      }, {
+        "latitudeE7" : 407386066,
+        "longitudeE7" : -740025058,
+        "placeId" : "ChIJdRYOI75ZwokRMWeTMBai_7o",
+        "name" : "Azaleas - West Village",
+        "locationConfidence" : 0.2456678
+      }, {
+        "latitudeE7" : 407382378,
+        "longitudeE7" : -740019201,
+        "placeId" : "ChIJCdP0MetZwokRJg9IZygYLL0",
+        "name" : "Odin",
+        "locationConfidence" : 0.23941495
+      }, {
+        "latitudeE7" : 407384433,
+        "longitudeE7" : -740019056,
+        "placeId" : "ChIJob1o-P5YwokRO-xO6GOXYXM",
+        "name" : "Gray & Davis Antique & Custom Jewelry",
+        "locationConfidence" : 0.23710367
+      }, {
+        "latitudeE7" : 407387290,
+        "longitudeE7" : -740016830,
+        "placeId" : "ChIJZ5lAMx5awokRnxZioAPcbW8",
+        "name" : "Ten Thousand Things",
+        "locationConfidence" : 0.21149409
+      }, {
+        "latitudeE7" : 407397543,
+        "longitudeE7" : -740022168,
+        "placeId" : "ChIJJ4rF2ZdZwokRvYOxGf50dUw",
+        "name" : "Office & Professional Employees International Union, Local 153",
+        "locationConfidence" : 0.16949229
+      }, {
+        "latitudeE7" : 407393579,
+        "longitudeE7" : -740009922,
+        "placeId" : "ChIJZ8K0t7tZwokR0LPA7qnqGVA",
+        "name" : "The Foot Group: Jeffrey Wolfson, DPM",
+        "locationConfidence" : 0.16935216
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407380309,
+        "longitudeE7" : -740010738
+      },
+      "endLocation" : {
+        "latitudeE7" : 407425689,
+        "longitudeE7" : -740060677
+      },
+      "duration" : {
+        "startTimestampMs" : "1517327101284",
+        "endTimestampMs" : "1517330581231"
+      },
+      "distance" : 3598,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 99.34704278983855
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.20586636371697714
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.1729735617164467
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407381591,
+          "lngE7" : -740009765
+        }, {
+          "latE7" : 407294425,
+          "lngE7" : -739945449
+        }, {
+          "latE7" : 407422676,
+          "lngE7" : -740061645
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407294319,
+          "lngE7" : -739944534,
+          "timestampMs" : "1517328752221",
+          "accuracyMeters" : 19
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407425689,
+        "longitudeE7" : -740060677,
+        "placeId" : "ChIJw2lMFL9ZwokRosAtly52YX4",
+        "address" : "75 9th Ave\nNew York, NY 10011\nUSA",
+        "name" : "Chelsea Market",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 94.65207
+      },
+      "duration" : {
+        "startTimestampMs" : "1517330581231",
+        "endTimestampMs" : "1517334660166"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 407423255,
+          "longitudeE7" : -740062482,
+          "placeId" : "ChIJHfCeYL9ZwokRWJA_N5ywsvk",
+          "address" : "75 9th Ave\nNew York, NY 10011\nUSA",
+          "name" : "Very Fresh Noodles",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 72.28969
+        },
+        "duration" : {
+          "startTimestampMs" : "1517332662154",
+          "endTimestampMs" : "1517333910652"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 407424271,
+        "centerLngE7" : -740063346,
+        "visitConfidence" : 94,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407424084,
+          "longitudeE7" : -740063739,
+          "placeId" : "ChIJ5clTZ79ZwokRqcGLt3vKjfw",
+          "name" : "Doughnuttery",
+          "locationConfidence" : 1.9444578
+        }, {
+          "latitudeE7" : 407424623,
+          "longitudeE7" : -740063425,
+          "placeId" : "ChIJz1hNFL9ZwokRL1Nf9sbt78g",
+          "name" : "Beyond Sushi Chelsea Market",
+          "locationConfidence" : 1.5357379
+        }, {
+          "latitudeE7" : 407424016,
+          "longitudeE7" : -740063030,
+          "placeId" : "ChIJOxamYL9ZwokRv2VhEz4GHzo",
+          "name" : "Bar Suzette Creperie",
+          "locationConfidence" : 1.2055391
+        }, {
+          "latitudeE7" : 407425547,
+          "longitudeE7" : -740060838,
+          "placeId" : "ChIJ81QWXL9ZwokRXT045fycD8g",
+          "name" : "Google Building 75",
+          "locationConfidence" : 0.73361814
+        }, {
+          "latitudeE7" : 407423720,
+          "longitudeE7" : -740062311,
+          "placeId" : "ChIJw2lMFL9ZwokRz7rc7XsWm1o",
+          "name" : "Tuck Shop",
+          "locationConfidence" : 0.67474514
+        }, {
+          "latitudeE7" : 407422936,
+          "longitudeE7" : -740061245,
+          "placeId" : "ChIJw2ZXYL9ZwokRZblZ0YKQ5QA",
+          "name" : "The Tippler",
+          "locationConfidence" : 0.63458514
+        }, {
+          "latitudeE7" : 407424870,
+          "longitudeE7" : -740064968,
+          "placeId" : "ChIJw2lMFL9ZwokRWei2k_-OqXw",
+          "name" : "Buonitalia",
+          "locationConfidence" : 0.4465632
+        }, {
+          "latitudeE7" : 407425210,
+          "longitudeE7" : -740062930,
+          "placeId" : "ChIJK6FVXr9ZwokR9EUcJxvJwOM",
+          "name" : "Chalait",
+          "locationConfidence" : 0.44505045
+        }, {
+          "latitudeE7" : 407423382,
+          "longitudeE7" : -740062746,
+          "placeId" : "ChIJr0OdYL9ZwokR5DRpFLvKAHY",
+          "name" : "Pineapple Express",
+          "locationConfidence" : 0.441174
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 407425307,
+      "centerLngE7" : -740062629,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407446413,
+        "longitudeE7" : -740060871,
+        "placeId" : "ChIJeVcyorhZwokRlzPu8DrVOas",
+        "name" : "Chelsea Square Market",
+        "locationConfidence" : 0.14087257
+      }, {
+        "latitudeE7" : 407424794,
+        "longitudeE7" : -740072285,
+        "placeId" : "ChIJvbuLYL9ZwokRr90gBz5TElo",
+        "name" : "KCD Inc",
+        "locationConfidence" : 0.13530228
+      }, {
+        "latitudeE7" : 407440326,
+        "longitudeE7" : -740064371,
+        "placeId" : "ChIJEdrIqbhZwokR7BE9e2oGzpk",
+        "name" : "Frankie Portugal",
+        "locationConfidence" : 0.120358884
+      }, {
+        "latitudeE7" : 407410150,
+        "longitudeE7" : -740046410,
+        "placeId" : "ChIJG3auoL9ZwokRVU-vheSmhwY",
+        "name" : "Luzzo's Gansevoort",
+        "locationConfidence" : 0.11592476
+      }, {
+        "latitudeE7" : 407426050,
+        "longitudeE7" : -740059769,
+        "placeId" : "ChIJh0R_XL9ZwokRMtAKBeThmXs",
+        "name" : "雀兒喜市場",
+        "locationConfidence" : 0.106902935
+      }, {
+        "latitudeE7" : 407408498,
+        "longitudeE7" : -740046958,
+        "placeId" : "ChIJG3auoL9ZwokRJYDEEi_O09E",
+        "name" : "TYME Food",
+        "locationConfidence" : 0.105301455
+      }, {
+        "latitudeE7" : 407410154,
+        "longitudeE7" : -740046413,
+        "placeId" : "ChIJsbyDCb9ZwokR1bldRTeN_co",
+        "name" : "The Truffleist",
+        "locationConfidence" : 0.09990382
+      }, {
+        "latitudeE7" : 407438296,
+        "longitudeE7" : -740065518,
+        "placeId" : "ChIJo-SNVcdZwokRipuhb4PT4WI",
+        "name" : "Okuda",
+        "locationConfidence" : 0.084071375
+      }, {
+        "latitudeE7" : 407431582,
+        "longitudeE7" : -740059227,
+        "placeId" : "ChIJITCOUL9ZwokRQmxWVnxqjK8",
+        "name" : "Small Darkroom Inc",
+        "locationConfidence" : 0.0840377
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407423113,
+          "lngE7" : -740057539,
+          "timestampMs" : "1517331457149",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407421199,
+          "lngE7" : -740049400,
+          "timestampMs" : "1517331592150",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407425654,
+          "lngE7" : -740063533,
+          "timestampMs" : "1517332085971",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407431204,
+          "lngE7" : -740063283,
+          "timestampMs" : "1517334536205",
+          "accuracyMeters" : 34
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407425689,
+        "longitudeE7" : -740060677
+      },
+      "endLocation" : {
+        "latitudeE7" : 407420371,
+        "longitudeE7" : -739875635
+      },
+      "duration" : {
+        "startTimestampMs" : "1517334660166",
+        "endTimestampMs" : "1517336055254"
+      },
+      "distance" : 1706,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.66283086946036
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.0606184768541373
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.7172357298704551
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407422676,
+          "lngE7" : -740061645
+        }, {
+          "latE7" : 407456741,
+          "lngE7" : -739994659
+        }, {
+          "latE7" : 407420387,
+          "lngE7" : -739876708
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407457340,
+          "lngE7" : -739994216,
+          "timestampMs" : "1517335333180",
+          "accuracyMeters" : 20
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407420371,
+        "longitudeE7" : -739875635,
+        "placeId" : "ChIJp32RvaZZwokRfH0Zgzl9mXk",
+        "address" : "11 Madison Ave\nNew York, NY 10010\nUSA",
+        "name" : "Madison Square Park",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 53.379105
+      },
+      "duration" : {
+        "startTimestampMs" : "1517336055254",
+        "endTimestampMs" : "1517336554000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 407413950,
+      "centerLngE7" : -739887833,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407410605,
+        "longitudeE7" : -739896986,
+        "placeId" : "ChIJZx8c96NZwokRJklw7SVhKt4",
+        "name" : "Flatiron Building",
+        "locationConfidence" : 23.190054
+      }, {
+        "latitudeE7" : 407413030,
+        "longitudeE7" : -739893440,
+        "placeId" : "ChIJ3QxIAKRZwokR9GKF9UAFs8k",
+        "name" : "23 St",
+        "locationConfidence" : 2.2057416
+      }, {
+        "latitudeE7" : 407415955,
+        "longitudeE7" : -739892828,
+        "placeId" : "ChIJ8Yt6BKRZwokRQoQtLN9_2T8",
+        "name" : "Flatiron Plaza",
+        "locationConfidence" : 2.0423038
+      }, {
+        "latitudeE7" : 407419931,
+        "longitudeE7" : -739899357,
+        "placeId" : "ChIJQ7xSJ6RZwokR-jyy3cTPWV8",
+        "name" : "General Worth Square",
+        "locationConfidence" : 1.2383212
+      }, {
+        "latitudeE7" : 407426910,
+        "longitudeE7" : -739889720,
+        "placeId" : "ChIJkx82J6RZwokR1yq2calOsUU",
+        "name" : "Mad. Sq. Eats",
+        "locationConfidence" : 1.2341329
+      }, {
+        "latitudeE7" : 407400486,
+        "longitudeE7" : -739893018,
+        "placeId" : "ChIJBZZoF5hZwokRiLnObJB5b_o",
+        "name" : "Matthew Praet Acupuncture",
+        "locationConfidence" : 0.5984629
+      }, {
+        "latitudeE7" : 407400449,
+        "longitudeE7" : -739891997,
+        "placeId" : "ChIJ04Da4KNZwokRZ1tQgE6a8QA",
+        "name" : "Dr. Tricia Mastropietro",
+        "locationConfidence" : 0.33839694
+      }, {
+        "latitudeE7" : 407400486,
+        "longitudeE7" : -739892911,
+        "placeId" : "ChIJHTjm4KNZwokRK7s56FRaSO4",
+        "name" : "Dermatology, Laser & Surgery of Flatiron PLLC",
+        "locationConfidence" : 0.30563572
+      }, {
+        "latitudeE7" : 407400400,
+        "longitudeE7" : -739893160,
+        "placeId" : "ChIJASDm4KNZwokR6W5cFD6e8oo",
+        "locationConfidence" : 0.24039866
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407410822,
+          "lngE7" : -739897361,
+          "timestampMs" : "1517336055254",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 407413942,
+          "lngE7" : -739891637,
+          "timestampMs" : "1517336188577",
+          "accuracyMeters" : 85
+        }, {
+          "latE7" : 407415907,
+          "lngE7" : -739885842,
+          "timestampMs" : "1517336292608",
+          "accuracyMeters" : 22
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407420371,
+        "longitudeE7" : -739875635
+      },
+      "endLocation" : {
+        "latitudeE7" : 407477815,
+        "longitudeE7" : -739874038
+      },
+      "duration" : {
+        "startTimestampMs" : "1517336554000",
+        "endTimestampMs" : "1517337545840"
+      },
+      "distance" : 974,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 99.27145395865979
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.22454365404103396
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.19685414674738186
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407421188,
+          "lngE7" : -739876022
+        }, {
+          "latE7" : 407478904,
+          "lngE7" : -739873199
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407477815,
+        "longitudeE7" : -739874038,
+        "placeId" : "ChIJm-KG5KhZwokRzWBK81hRNh0",
+        "address" : "38 W 32nd St\nNew York, NY 10001\nUSA",
+        "name" : "H Mart",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 81.24503
+      },
+      "duration" : {
+        "startTimestampMs" : "1517337545840",
+        "endTimestampMs" : "1517338413345"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 407476489,
+      "centerLngE7" : -739875567,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407478472,
+        "longitudeE7" : -739879619,
+        "placeId" : "ChIJbfbf2qhZwokRWa7TRvKmLJQ",
+        "name" : "1250 Broadway",
+        "locationConfidence" : 4.3966885
+      }, {
+        "latitudeE7" : 407480284,
+        "longitudeE7" : -739869813,
+        "placeId" : "ChIJR0nC46hZwokRo7gIXbPYd7I",
+        "name" : "Nature Republic",
+        "locationConfidence" : 3.0405931
+      }, {
+        "latitudeE7" : 407483520,
+        "longitudeE7" : -739879750,
+        "placeId" : "ChIJ-6WgIKlZwokRKLcbjP2lffo",
+        "name" : "Chase Bank",
+        "locationConfidence" : 1.199142
+      }, {
+        "latitudeE7" : 407476648,
+        "longitudeE7" : -739881026,
+        "placeId" : "ChIJxW6S2ahZwokRH8NvoJbQA24",
+        "name" : "Accessories Palace Inc",
+        "locationConfidence" : 0.17730936
+      }, {
+        "latitudeE7" : 407469654,
+        "longitudeE7" : -739880557,
+        "placeId" : "ChIJj3nHuahZwokRkAkpoEvONgI",
+        "name" : "Makita Cosmetics USA Inc.",
+        "locationConfidence" : 0.16249989
+      }, {
+        "latitudeE7" : 407479343,
+        "longitudeE7" : -739885689,
+        "placeId" : "ChIJ5S1ZJqlZwokRBXRLX4sUJZY",
+        "name" : "Giorgio Milano",
+        "locationConfidence" : 0.14435856
+      }, {
+        "latitudeE7" : 407472139,
+        "longitudeE7" : -739880992,
+        "placeId" : "ChIJJVLbu6hZwokR94LzEKcuse4",
+        "name" : "Montres De Sleur",
+        "locationConfidence" : 0.14208902
+      }, {
+        "latitudeE7" : 407481561,
+        "longitudeE7" : -739873110,
+        "placeId" : "ChIJb09e4KhZwokRCcAaYhhfNT8",
+        "name" : "DeLoor Podiatry",
+        "locationConfidence" : 0.12685518
+      }, {
+        "latitudeE7" : 407469654,
+        "longitudeE7" : -739880557,
+        "placeId" : "ChIJ76HhwKhZwokRTQ9XUT32z84",
+        "name" : "International Silver - Wholesale Body Jewelry",
+        "locationConfidence" : 0.12577279
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407477815,
+        "longitudeE7" : -739874038
+      },
+      "endLocation" : {
+        "latitudeE7" : 407535965,
+        "longitudeE7" : -739832326
+      },
+      "duration" : {
+        "startTimestampMs" : "1517338413345",
+        "endTimestampMs" : "1517339272112"
+      },
+      "distance" : 1069,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 99.2849857309092
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.26265890935151104
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.12053807258464715
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407478904,
+          "lngE7" : -739873199
+        }, {
+          "latE7" : 407535514,
+          "lngE7" : -739831314
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407535965,
+        "longitudeE7" : -739832326,
+        "placeId" : "ChIJvbGg56pZwokRp_E3JbivnLQ",
+        "address" : "New York, NY 10018\nUSA",
+        "name" : "Bryant Park",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 96.69812
+      },
+      "duration" : {
+        "startTimestampMs" : "1517339272112",
+        "endTimestampMs" : "1517345168188"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 407531823,
+          "longitudeE7" : -739822534,
+          "placeId" : "ChIJqaiomQBZwokRTHOaUG7fUTs",
+          "address" : "476 5th Ave\nNew York, NY 10018\nUSA",
+          "name" : "New York Public Library - Stephen A. Schwarzman Building",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 84.76705
+        },
+        "duration" : {
+          "startTimestampMs" : "1517341155970",
+          "endTimestampMs" : "1517345168188"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 407532192,
+        "centerLngE7" : -739821043,
+        "visitConfidence" : 92,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407532777,
+          "longitudeE7" : -739822616,
+          "placeId" : "ChIJJcFX6alZwokRPElLWaXkTeA",
+          "name" : "The New York Public Library Shop",
+          "locationConfidence" : 8.847198
+        }, {
+          "latitudeE7" : 407525079,
+          "longitudeE7" : -739813817,
+          "placeId" : "ChIJAWw4XwBZwokRm6m5ofp6d54",
+          "name" : "MUJI Fifth Avenue",
+          "locationConfidence" : 0.29749966
+        }, {
+          "latitudeE7" : 407531729,
+          "longitudeE7" : -739808536,
+          "placeId" : "ChIJJz5gTwBZwokRFM_Bp1JZrMM",
+          "name" : "Amic5T New York Inc",
+          "locationConfidence" : 0.09165909
+        }, {
+          "latitudeE7" : 407531980,
+          "longitudeE7" : -739808149,
+          "placeId" : "ChIJb41rTwBZwokRVyiRgPKZJag",
+          "name" : "The Law Offices of Jeffrey E. Goldman",
+          "locationConfidence" : 0.06359716
+        }, {
+          "latitudeE7" : 407523242,
+          "longitudeE7" : -739807302,
+          "placeId" : "ChIJL1WjVwBZwokR5QsaIsogIBQ",
+          "name" : "Mid Manhattan Oral Surgery",
+          "locationConfidence" : 0.057105795
+        }, {
+          "latitudeE7" : 407521123,
+          "longitudeE7" : -739823064,
+          "placeId" : "ChIJeXLDmgBZwokRgXAzA0Kera0",
+          "name" : "Kee's chocolate",
+          "locationConfidence" : 0.053634234
+        }, {
+          "latitudeE7" : 407524245,
+          "longitudeE7" : -739827960,
+          "placeId" : "ChIJ26KcgABZwokR3MiP5x_q5Kg",
+          "name" : "Adventist Book Center",
+          "locationConfidence" : 0.05060651
+        }, {
+          "latitudeE7" : 407523420,
+          "longitudeE7" : -739808680,
+          "placeId" : "ChIJ7wYmv_lYwokR5MZ4hw5NpAQ",
+          "name" : "Innovo Staffing",
+          "locationConfidence" : 0.049653634
+        }, {
+          "latitudeE7" : 407523242,
+          "longitudeE7" : -739807302,
+          "placeId" : "ChIJL1WjVwBZwokRihsG5JTKi6U",
+          "name" : "Paul R. Calat, DMD",
+          "locationConfidence" : 0.048882026
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 407532791,
+      "centerLngE7" : -739828379,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407525079,
+        "longitudeE7" : -739813817,
+        "placeId" : "ChIJAWw4XwBZwokRm6m5ofp6d54",
+        "name" : "MUJI Fifth Avenue",
+        "locationConfidence" : 0.33937314
+      }, {
+        "latitudeE7" : 407531729,
+        "longitudeE7" : -739808536,
+        "placeId" : "ChIJJz5gTwBZwokRFM_Bp1JZrMM",
+        "name" : "Amic5T New York Inc",
+        "locationConfidence" : 0.104560226
+      }, {
+        "latitudeE7" : 407531980,
+        "longitudeE7" : -739808149,
+        "placeId" : "ChIJb41rTwBZwokRVyiRgPKZJag",
+        "name" : "The Law Offices of Jeffrey E. Goldman",
+        "locationConfidence" : 0.07254854
+      }, {
+        "latitudeE7" : 407523242,
+        "longitudeE7" : -739807302,
+        "placeId" : "ChIJL1WjVwBZwokR5QsaIsogIBQ",
+        "name" : "Mid Manhattan Oral Surgery",
+        "locationConfidence" : 0.06514351
+      }, {
+        "latitudeE7" : 407521123,
+        "longitudeE7" : -739823064,
+        "placeId" : "ChIJeXLDmgBZwokRgXAzA0Kera0",
+        "name" : "Kee's chocolate",
+        "locationConfidence" : 0.06118332
+      }, {
+        "latitudeE7" : 407524245,
+        "longitudeE7" : -739827960,
+        "placeId" : "ChIJ26KcgABZwokR3MiP5x_q5Kg",
+        "name" : "Adventist Book Center",
+        "locationConfidence" : 0.05772944
+      }, {
+        "latitudeE7" : 407523420,
+        "longitudeE7" : -739808680,
+        "placeId" : "ChIJ7wYmv_lYwokR5MZ4hw5NpAQ",
+        "name" : "Innovo Staffing",
+        "locationConfidence" : 0.056642447
+      }, {
+        "latitudeE7" : 407523242,
+        "longitudeE7" : -739807302,
+        "placeId" : "ChIJL1WjVwBZwokRihsG5JTKi6U",
+        "name" : "Paul R. Calat, DMD",
+        "locationConfidence" : 0.055762235
+      }, {
+        "latitudeE7" : 407539143,
+        "longitudeE7" : -739810162,
+        "placeId" : "ChIJb-P9OwBZwokRmyDKbXFmBHs",
+        "name" : "Kuramo Capital Management",
+        "locationConfidence" : 0.049850147
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407532359,
+          "lngE7" : -739841057,
+          "timestampMs" : "1517339395021",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 407535880,
+          "lngE7" : -739845072,
+          "timestampMs" : "1517340923199",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407537326,
+          "lngE7" : -739839096,
+          "timestampMs" : "1517341046347",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407536084,
+          "lngE7" : -739815361,
+          "timestampMs" : "1517341432153",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 407530486,
+          "lngE7" : -739815224,
+          "timestampMs" : "1517341516679",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 407529408,
+          "lngE7" : -739827097,
+          "timestampMs" : "1517342394707",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407532408,
+          "lngE7" : -739820842,
+          "timestampMs" : "1517342892546",
+          "accuracyMeters" : 20
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407535965,
+        "longitudeE7" : -739832326
+      },
+      "endLocation" : {
+        "latitudeE7" : 407487134,
+        "longitudeE7" : -739845420
+      },
+      "duration" : {
+        "startTimestampMs" : "1517345168188",
+        "endTimestampMs" : "1517345544237"
+      },
+      "distance" : 427,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.56718076024251
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.5505001434173518
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.33891080509536414
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407535514,
+          "lngE7" : -739831314
+        }, {
+          "latE7" : 407486763,
+          "lngE7" : -739844512
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407484405,
+        "longitudeE7" : -739856644,
+        "placeId" : "ChIJaXQRs6lZwokRY6EFpJnhNNE",
+        "address" : "20 W 34th St\nNew York, NY 10001\nUSA",
+        "name" : "Empire State Building",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 98.44053
+      },
+      "duration" : {
+        "startTimestampMs" : "1517345544237",
+        "endTimestampMs" : "1517351971844"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 407484937,
+      "centerLngE7" : -739855986,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407482045,
+        "longitudeE7" : -739849774,
+        "placeId" : "ChIJZ2V_tKlZwokRCcy3KdP40g0",
+        "name" : "帝国大厦",
+        "locationConfidence" : 0.8300317
+      }, {
+        "latitudeE7" : 407486790,
+        "longitudeE7" : -739851060,
+        "placeId" : "ChIJpYdtvKlZwokRHuOpAUIuLJ0",
+        "name" : "The Alteration Shop By Rahman",
+        "locationConfidence" : 0.118944496
+      }, {
+        "latitudeE7" : 407489987,
+        "longitudeE7" : -739853764,
+        "placeId" : "ChIJtcFq0t_8ZUAR2u5XWvQ4Qeo",
+        "name" : "7 W New York",
+        "locationConfidence" : 0.078765646
+      }, {
+        "latitudeE7" : 407488551,
+        "longitudeE7" : -739849772,
+        "placeId" : "ChIJC6dyvKlZwokRdMHr9_nI92U",
+        "name" : "Aleman Groups USA",
+        "locationConfidence" : 0.06720467
+      }, {
+        "latitudeE7" : 407488551,
+        "longitudeE7" : -739849772,
+        "placeId" : "ChIJC6dyvKlZwokRyeo5QqRd9hs",
+        "name" : "Coreclassics",
+        "locationConfidence" : 0.06502628
+      }, {
+        "latitudeE7" : 407484799,
+        "longitudeE7" : -739854246,
+        "placeId" : "ChIJk1_8rqlZwokRXaCHVdB1aYg",
+        "name" : "Walgreens Pharmacy",
+        "locationConfidence" : 0.05808272
+      }, {
+        "latitudeE7" : 407490165,
+        "longitudeE7" : -739852986,
+        "placeId" : "ChIJZyFRvalZwokR637up6Qz0JU",
+        "name" : "Amazon Books",
+        "locationConfidence" : 0.047217622
+      }, {
+        "latitudeE7" : 407491130,
+        "longitudeE7" : -739855534,
+        "placeId" : "ChIJfQXUo6lZwokRhqKd1wDIedk",
+        "name" : "medical supply unit",
+        "locationConfidence" : 0.041281246
+      }, {
+        "latitudeE7" : 407481990,
+        "longitudeE7" : -739862586,
+        "placeId" : "ChIJKzHxMRpgwokR6mGPWwlFzTU",
+        "name" : "DK COSMETICS",
+        "locationConfidence" : 0.0400057
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407484405,
+        "longitudeE7" : -739856644
+      },
+      "endLocation" : {
+        "latitudeE7" : 407477815,
+        "longitudeE7" : -739874038
+      },
+      "duration" : {
+        "startTimestampMs" : "1517351971844",
+        "endTimestampMs" : "1517352347387"
+      },
+      "distance" : 124,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.59604168125547
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.47916942279337615
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3873156156032571
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407481536,
+          "lngE7" : -739858779
+        }, {
+          "latE7" : 407478904,
+          "lngE7" : -739873199
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407477815,
+        "longitudeE7" : -739874038,
+        "placeId" : "ChIJm-KG5KhZwokRzWBK81hRNh0",
+        "address" : "38 W 32nd St\nNew York, NY 10001\nUSA",
+        "name" : "H Mart",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 72.10921
+      },
+      "duration" : {
+        "startTimestampMs" : "1517352347387",
+        "endTimestampMs" : "1517353091914"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 407476400,
+      "centerLngE7" : -739876988,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407478472,
+        "longitudeE7" : -739879619,
+        "placeId" : "ChIJbfbf2qhZwokRWa7TRvKmLJQ",
+        "name" : "1250 Broadway",
+        "locationConfidence" : 13.134123
+      }, {
+        "latitudeE7" : 407480284,
+        "longitudeE7" : -739869813,
+        "placeId" : "ChIJR0nC46hZwokRo7gIXbPYd7I",
+        "name" : "Nature Republic",
+        "locationConfidence" : 2.108823
+      }, {
+        "latitudeE7" : 407469654,
+        "longitudeE7" : -739880557,
+        "placeId" : "ChIJj3nHuahZwokRkAkpoEvONgI",
+        "name" : "Makita Cosmetics USA Inc.",
+        "locationConfidence" : 0.27179316
+      }, {
+        "latitudeE7" : 407476648,
+        "longitudeE7" : -739881026,
+        "placeId" : "ChIJxW6S2ahZwokRH8NvoJbQA24",
+        "name" : "Accessories Palace Inc",
+        "locationConfidence" : 0.25699678
+      }, {
+        "latitudeE7" : 407474480,
+        "longitudeE7" : -739866550,
+        "placeId" : "ChIJl5Ix7qhZwokRzeMDa3IhIDA",
+        "name" : "Jung A Han, MD",
+        "locationConfidence" : 0.18333003
+      }, {
+        "latitudeE7" : 407472379,
+        "longitudeE7" : -739871398,
+        "placeId" : "ChIJ8QAux6hZwokRax-_Aq_l8YQ",
+        "name" : "Blue Club New York",
+        "locationConfidence" : 0.18159655
+      }, {
+        "latitudeE7" : 407481561,
+        "longitudeE7" : -739873110,
+        "placeId" : "ChIJb09e4KhZwokRCcAaYhhfNT8",
+        "name" : "DeLoor Podiatry",
+        "locationConfidence" : 0.17900361
+      }, {
+        "latitudeE7" : 407472139,
+        "longitudeE7" : -739880992,
+        "placeId" : "ChIJJVLbu6hZwokR94LzEKcuse4",
+        "name" : "Montres De Sleur",
+        "locationConfidence" : 0.17309184
+      }, {
+        "latitudeE7" : 407469654,
+        "longitudeE7" : -739880557,
+        "placeId" : "ChIJ76HhwKhZwokRTQ9XUT32z84",
+        "name" : "International Silver - Wholesale Body Jewelry",
+        "locationConfidence" : 0.16524574
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407477815,
+        "longitudeE7" : -739874038
+      },
+      "endLocation" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840
+      },
+      "duration" : {
+        "startTimestampMs" : "1517353091914",
+        "endTimestampMs" : "1517353825593"
+      },
+      "distance" : 1010,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 86.25062759345516
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.837287053744927
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 2.2276484794740266
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407478904,
+          "lngE7" : -739873199
+        }, {
+          "latE7" : 407556762,
+          "lngE7" : -739919052
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840,
+        "placeId" : "ChIJCQeW2KxZwokRcFA1jngEs_8",
+        "address" : "311 West 39th Street Between 8th And\n9th Ave\nNew York, NY 10018\nUSA",
+        "name" : "Element New York Times Square West",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 91.74686
+      },
+      "duration" : {
+        "startTimestampMs" : "1517353825593",
+        "endTimestampMs" : "1517405602823"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 407558053,
+      "centerLngE7" : -739920459,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407558060,
+        "longitudeE7" : -739920120,
+        "placeId" : "ChIJdSHa16xZwokR6hSFECz_XaM",
+        "locationConfidence" : 2.8046358
+      }, {
+        "latitudeE7" : 407552290,
+        "longitudeE7" : -739917120,
+        "placeId" : "ChIJD8ij36xZwokRH1qsGSZYcmU",
+        "name" : "Holiday Inn New York City - Times Square",
+        "locationConfidence" : 0.38918465
+      }, {
+        "latitudeE7" : 407563670,
+        "longitudeE7" : -739907530,
+        "placeId" : "ChIJWXKDM1NYwokRKoXmvGDLxwU",
+        "name" : "Port Authority Bus Terminal",
+        "locationConfidence" : 0.30085993
+      }, {
+        "latitudeE7" : 407556368,
+        "longitudeE7" : -739924626,
+        "placeId" : "ChIJtWTdJK1ZwokRBuYfuOpomJI",
+        "name" : "Kaback Enterprises",
+        "locationConfidence" : 0.107655674
+      }, {
+        "latitudeE7" : 407555230,
+        "longitudeE7" : -739922280,
+        "placeId" : "ChIJIyPvw6xZwokRizSsCqsfNnM",
+        "name" : "Star Snaps NYC",
+        "locationConfidence" : 0.106801264
+      }, {
+        "latitudeE7" : 407549226,
+        "longitudeE7" : -739911523,
+        "placeId" : "ChIJ6Rg3plRYwokRIG8dnRNgmP0",
+        "name" : "The Tour",
+        "locationConfidence" : 0.07979593
+      }, {
+        "latitudeE7" : 407556716,
+        "longitudeE7" : -739934027,
+        "placeId" : "ChIJ_____6ZZwokREC4QIYomea4",
+        "name" : "Major Model Management",
+        "locationConfidence" : 0.067519516
+      }, {
+        "latitudeE7" : 407552018,
+        "longitudeE7" : -739921581,
+        "placeId" : "ChIJCaTwIa1ZwokResYT1lMFP8s",
+        "name" : "Lightprint",
+        "locationConfidence" : 0.06653411
+      }, {
+        "latitudeE7" : 407556439,
+        "longitudeE7" : -739914487,
+        "placeId" : "ChIJ0_qKRaNZwokR4e3ZHVVG8DU",
+        "name" : "Hunk-O-Mania",
+        "locationConfidence" : 0.06551812
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840
+      },
+      "endLocation" : {
+        "latitudeE7" : 407530600,
+        "longitudeE7" : -739841230
+      },
+      "duration" : {
+        "startTimestampMs" : "1517405602823",
+        "endTimestampMs" : "1517406236278"
+      },
+      "distance" : 1020,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.67219518010039
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.0285504546428765
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.597719767107827
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407556762,
+          "lngE7" : -739919052
+        }, {
+          "latE7" : 407531166,
+          "lngE7" : -739840774
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407530600,
+        "longitudeE7" : -739841230,
+        "placeId" : "ChIJi_eyi6pZwokRFvY-ucXUXEk",
+        "address" : "54 W 40th St\nNew York, NY 10018\nUSA",
+        "name" : "Blue Bottle Coffee",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 61.373608
+      },
+      "duration" : {
+        "startTimestampMs" : "1517406236278",
+        "endTimestampMs" : "1517406684121"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 407533500,
+      "centerLngE7" : -739842540,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407535965,
+        "longitudeE7" : -739832326,
+        "placeId" : "ChIJvbGg56pZwokRp_E3JbivnLQ",
+        "name" : "Bryant Park",
+        "locationConfidence" : 27.449991
+      }, {
+        "latitudeE7" : 407531468,
+        "longitudeE7" : -739843907,
+        "placeId" : "ChIJl8s086pZwokR4sv3p3GqM3A",
+        "name" : "FedEx Office Print & Ship Center",
+        "locationConfidence" : 1.5059625
+      }, {
+        "latitudeE7" : 407535748,
+        "longitudeE7" : -739855053,
+        "placeId" : "ChIJ3Xrz-apZwokRlXC_woD9axg",
+        "name" : "La Colombe Coffee Roasters",
+        "locationConfidence" : 1.2706468
+      }, {
+        "latitudeE7" : 407529505,
+        "longitudeE7" : -739842537,
+        "placeId" : "ChIJi_eyi6pZwokRzdg-HgqNKN4",
+        "name" : "WeWork Bryant Park",
+        "locationConfidence" : 1.0724951
+      }, {
+        "latitudeE7" : 407524100,
+        "longitudeE7" : -739848733,
+        "placeId" : "ChIJA9V7W6pZwokRPCLzewnbvLA",
+        "name" : "Skin Wonderland",
+        "locationConfidence" : 0.3388343
+      }, {
+        "latitudeE7" : 407526707,
+        "longitudeE7" : -739851700,
+        "placeId" : "ChIJmRnlWapZwokRjGZcf_NJNNA",
+        "name" : "T M R W Studio",
+        "locationConfidence" : 0.15120828
+      }, {
+        "latitudeE7" : 407524100,
+        "longitudeE7" : -739848733,
+        "placeId" : "ChIJn7J_W6pZwokRwBXQ02fwGNE",
+        "name" : "City Nails",
+        "locationConfidence" : 0.13939506
+      }, {
+        "latitudeE7" : 407535269,
+        "longitudeE7" : -739857827,
+        "placeId" : "ChIJZel9MABZwokRPLTx9yqyav0",
+        "name" : "Lucas Group",
+        "locationConfidence" : 0.124211036
+      }, {
+        "latitudeE7" : 407528410,
+        "longitudeE7" : -739847800,
+        "placeId" : "ChIJ7amJ2gBZwokR1A74oL-DR-I",
+        "name" : "Carmel, Milazzo & DiChiara, LLP",
+        "locationConfidence" : 0.11262782
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407532371,
+        "longitudeE7" : -739841170
+      },
+      "endLocation" : {
+        "latitudeE7" : 407587402,
+        "longitudeE7" : -739786736
+      },
+      "duration" : {
+        "startTimestampMs" : "1517406684121",
+        "endTimestampMs" : "1517407441324"
+      },
+      "distance" : 1035,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 98.26933805996188
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.5865344988478882
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.4004504746214269
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407532234,
+          "lngE7" : -739841308
+        }, {
+          "latE7" : 407587471,
+          "lngE7" : -739786911
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407587402,
+        "longitudeE7" : -739786736,
+        "placeId" : "ChIJ9U1mz_5YwokRosza1aAk0jM",
+        "address" : "45 Rockefeller Plaza\nNew York, NY 10111\nUSA",
+        "name" : "Rockefeller Center",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 99.9011
+      },
+      "duration" : {
+        "startTimestampMs" : "1517407441324",
+        "endTimestampMs" : "1517408545125"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 407588626,
+      "centerLngE7" : -739786063,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407578543,
+        "longitudeE7" : -739785401,
+        "placeId" : "ChIJjVxYk_5YwokR4iDa6cmIsug",
+        "name" : "Saks Fifth Avenue Windows",
+        "locationConfidence" : 0.089873336
+      }, {
+        "latitudeE7" : 407591814,
+        "longitudeE7" : -739789892,
+        "placeId" : "ChIJJREEzP5YwokRNhSsUQf-H4M",
+        "locationConfidence" : 0.0037886132
+      }, {
+        "latitudeE7" : 407585449,
+        "longitudeE7" : -739785784,
+        "placeId" : "ChIJDT-huP5YwokRHHKB862i5FQ",
+        "locationConfidence" : 0.0035902108
+      }, {
+        "latitudeE7" : 407578860,
+        "longitudeE7" : -739790420,
+        "placeId" : "ChIJC_In7_5YwokRRY3102hswsg",
+        "name" : "Citibank ATM",
+        "locationConfidence" : 0.0010088233
+      }, {
+        "latitudeE7" : 407589632,
+        "longitudeE7" : -739793374,
+        "placeId" : "ChIJNZvR1v5YwokRuoaf84TjiN0",
+        "name" : "Kaufman Media Management",
+        "locationConfidence" : 2.2149211E-4
+      }, {
+        "latitudeE7" : 407591574,
+        "longitudeE7" : -739798837,
+        "placeId" : "ChIJ0zpW1v5YwokRfqP10RXhac4",
+        "name" : "AT&T Internet Service",
+        "locationConfidence" : 1.7934464E-4
+      }, {
+        "latitudeE7" : 407589632,
+        "longitudeE7" : -739793374,
+        "placeId" : "ChIJNZvR1v5YwokR5zi7FKElUtQ",
+        "name" : "Olsten Health Care Services",
+        "locationConfidence" : 1.2199046E-4
+      }, {
+        "latitudeE7" : 407591786,
+        "longitudeE7" : -739778164,
+        "placeId" : "ChIJr06Fdv9YwokRgxbNMGo6FJU",
+        "name" : "Jamison Financial Group",
+        "locationConfidence" : 1.1519288E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407594300,
+          "lngE7" : -739780787,
+          "timestampMs" : "1517408011153",
+          "accuracyMeters" : 31
+        }, {
+          "latE7" : 407588070,
+          "lngE7" : -739785014,
+          "timestampMs" : "1517408127737",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407584303,
+          "lngE7" : -739777930,
+          "timestampMs" : "1517408362703",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407591465,
+          "lngE7" : -739789763,
+          "timestampMs" : "1517408506747",
+          "accuracyMeters" : 21
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407613544,
+        "longitudeE7" : -739837298
+      },
+      "endLocation" : {
+        "latitudeE7" : 407839360,
+        "longitudeE7" : -739799190
+      },
+      "duration" : {
+        "startTimestampMs" : "1517408545125",
+        "endTimestampMs" : "1517410925863"
+      },
+      "distance" : 2594,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 38.158184113177384
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 34.56139892188341
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 22.95057334484357
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 407613544,
+          "longitudeE7" : -739837298,
+          "placeId" : "ChIJpY9mO1ZYwokRsbx01J3izKs",
+          "name" : "50 St"
+        }, {
+          "latitudeE7" : 407839360,
+          "longitudeE7" : -739799190,
+          "placeId" : "ChIJOfwkh4hYwokRkb3Yw4wclyg",
+          "name" : "79 St"
+        } ],
+        "name" : "1",
+        "hexRgbColor" : "E53935"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407595871,
+          "lngE7" : -739805618,
+          "timestampMs" : "1517408599585",
+          "accuracyMeters" : 67
+        }, {
+          "latE7" : 407682942,
+          "lngE7" : -739816951,
+          "timestampMs" : "1517409327781",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407735281,
+          "lngE7" : -739821613,
+          "timestampMs" : "1517409408097",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407837864,
+          "lngE7" : -739803776,
+          "timestampMs" : "1517409599999",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 407829254,
+          "lngE7" : -739777503,
+          "timestampMs" : "1517409770856",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407817747,
+          "lngE7" : -739756757,
+          "timestampMs" : "1517409921566",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407821822,
+          "lngE7" : -739753147,
+          "timestampMs" : "1517410064434",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 407829186,
+          "lngE7" : -739737782,
+          "timestampMs" : "1517410191663",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407820983,
+          "lngE7" : -739722129,
+          "timestampMs" : "1517410549009",
+          "accuracyMeters" : 55
+        }, {
+          "latE7" : 407806463,
+          "lngE7" : -739734223,
+          "timestampMs" : "1517410694482",
+          "accuracyMeters" : 64
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407818509,
+        "longitudeE7" : -739747602,
+        "placeId" : "ChIJv8mWqY9YwokRIzh7-8yBA14",
+        "address" : "200 Central Park West\nNew York, NY 10024\nUSA",
+        "name" : "Theodore Roosevelt Park",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 95.20977
+      },
+      "duration" : {
+        "startTimestampMs" : "1517410925863",
+        "endTimestampMs" : "1517417882124"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 407813241,
+          "longitudeE7" : -739739882,
+          "placeId" : "ChIJCXoPsPRYwokRsV1MYnKBfaI",
+          "address" : "200 Central Park West\nNew York, NY 10024\nUSA",
+          "name" : "American Museum of Natural History",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 90.651825
+        },
+        "duration" : {
+          "startTimestampMs" : "1517410925863",
+          "endTimestampMs" : "1517417882124"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 407808657,
+        "centerLngE7" : -739739837,
+        "visitConfidence" : 87,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407828647,
+          "longitudeE7" : -739653551,
+          "placeId" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+          "name" : "Central Park",
+          "locationConfidence" : 1.6603339
+        }, {
+          "latitudeE7" : 407814330,
+          "longitudeE7" : -739721430,
+          "placeId" : "ChIJx6sOxY9YwokRTkM69t31XhQ",
+          "name" : "81 Street-Museum of Natural History Station",
+          "locationConfidence" : 0.36886588
+        }, {
+          "latitudeE7" : 407825514,
+          "longitudeE7" : -739754027,
+          "placeId" : "ChIJqelza49YwokRT8uWjTzhwAQ",
+          "name" : "Monica And Andy",
+          "locationConfidence" : 0.1652526
+        }, {
+          "latitudeE7" : 407824140,
+          "longitudeE7" : -739722450,
+          "placeId" : "ChIJuyaK7o9YwokRpBwJdpGSGic",
+          "name" : "Dr. Marianne Styler, MD",
+          "locationConfidence" : 0.11532241
+        }, {
+          "latitudeE7" : 407823579,
+          "longitudeE7" : -739756638,
+          "placeId" : "ChIJSdV9PY9YwokRA3BLYyGimsQ",
+          "name" : "Rick J. Delmonte, DPM",
+          "locationConfidence" : 0.089711875
+        }, {
+          "latitudeE7" : 407822976,
+          "longitudeE7" : -739756864,
+          "placeId" : "ChIJSdV9PY9YwokR60bzQh0T9E4",
+          "name" : "Paul M. Greenberg, DPM/ Belvedere Podiatry Group",
+          "locationConfidence" : 0.08457945
+        }, {
+          "latitudeE7" : 407802505,
+          "longitudeE7" : -739760981,
+          "placeId" : "ChIJuRgbxI5YwokRkwotE2WRiYY",
+          "name" : "Dr. Anita Shrivastava, MD",
+          "locationConfidence" : 0.05229375
+        }, {
+          "latitudeE7" : 407814500,
+          "longitudeE7" : -739770120,
+          "placeId" : "ChIJeVSXKo9YwokRv1Y2afvKUcA",
+          "name" : "Sam L. Weissbard, DDS",
+          "locationConfidence" : 0.046914604
+        }, {
+          "latitudeE7" : 407803190,
+          "longitudeE7" : -739760750,
+          "placeId" : "ChIJuRgbxI5YwokRsD8IBFwQHYA",
+          "name" : "Westcare Medical Associates-International MD",
+          "locationConfidence" : 0.04574268
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 407808784,
+      "centerLngE7" : -739740008,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407828647,
+        "longitudeE7" : -739653551,
+        "placeId" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+        "name" : "Central Park",
+        "locationConfidence" : 1.7438148
+      }, {
+        "latitudeE7" : 407814330,
+        "longitudeE7" : -739721430,
+        "placeId" : "ChIJx6sOxY9YwokRTkM69t31XhQ",
+        "name" : "81 Street-Museum of Natural History Station",
+        "locationConfidence" : 0.3874123
+      }, {
+        "latitudeE7" : 407825514,
+        "longitudeE7" : -739754027,
+        "placeId" : "ChIJqelza49YwokRT8uWjTzhwAQ",
+        "name" : "Monica And Andy",
+        "locationConfidence" : 0.17356144
+      }, {
+        "latitudeE7" : 407824140,
+        "longitudeE7" : -739722450,
+        "placeId" : "ChIJuyaK7o9YwokRpBwJdpGSGic",
+        "name" : "Dr. Marianne Styler, MD",
+        "locationConfidence" : 0.12112078
+      }, {
+        "latitudeE7" : 407823579,
+        "longitudeE7" : -739756638,
+        "placeId" : "ChIJSdV9PY9YwokRA3BLYyGimsQ",
+        "name" : "Rick J. Delmonte, DPM",
+        "locationConfidence" : 0.09422256
+      }, {
+        "latitudeE7" : 407822976,
+        "longitudeE7" : -739756864,
+        "placeId" : "ChIJSdV9PY9YwokR60bzQh0T9E4",
+        "name" : "Paul M. Greenberg, DPM/ Belvedere Podiatry Group",
+        "locationConfidence" : 0.08883207
+      }, {
+        "latitudeE7" : 407802505,
+        "longitudeE7" : -739760981,
+        "placeId" : "ChIJuRgbxI5YwokRkwotE2WRiYY",
+        "name" : "Dr. Anita Shrivastava, MD",
+        "locationConfidence" : 0.05492306
+      }, {
+        "latitudeE7" : 407814500,
+        "longitudeE7" : -739770120,
+        "placeId" : "ChIJeVSXKo9YwokRv1Y2afvKUcA",
+        "name" : "Sam L. Weissbard, DDS",
+        "locationConfidence" : 0.04927345
+      }, {
+        "latitudeE7" : 407803190,
+        "longitudeE7" : -739760750,
+        "placeId" : "ChIJuRgbxI5YwokRsD8IBFwQHYA",
+        "name" : "Westcare Medical Associates-International MD",
+        "locationConfidence" : 0.048042603
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407810097,
+          "lngE7" : -739730903,
+          "timestampMs" : "1517410925863",
+          "accuracyMeters" : 42
+        }, {
+          "latE7" : 407813137,
+          "lngE7" : -739736392,
+          "timestampMs" : "1517411682582",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407811556,
+          "lngE7" : -739742936,
+          "timestampMs" : "1517412316302",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407805118,
+          "lngE7" : -739740944,
+          "timestampMs" : "1517413669133",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 407805614,
+          "lngE7" : -739734955,
+          "timestampMs" : "1517414182313",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407807279,
+          "lngE7" : -739749811,
+          "timestampMs" : "1517414419095",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 407809526,
+          "lngE7" : -739757317,
+          "timestampMs" : "1517414547524",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407816813,
+          "lngE7" : -739750922,
+          "timestampMs" : "1517414669228",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 407819898,
+          "lngE7" : -739736353,
+          "timestampMs" : "1517417454481",
+          "accuracyMeters" : 63
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407818509,
+        "longitudeE7" : -739747602
+      },
+      "endLocation" : {
+        "latitudeE7" : 407808622,
+        "longitudeE7" : -739765412
+      },
+      "duration" : {
+        "startTimestampMs" : "1517417882124",
+        "endTimestampMs" : "1517418250200"
+      },
+      "distance" : 270,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.04278663813992
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.6603875705460382
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6469972076684506
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407819709,
+          "lngE7" : -739748840
+        }, {
+          "latE7" : 407807617,
+          "lngE7" : -739766159
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407808622,
+        "longitudeE7" : -739765412,
+        "placeId" : "ChIJq3tH0I5YwokRfL6Y8j8E6DM",
+        "address" : "366 Columbus Ave\nNew York, NY 10024\nUSA",
+        "name" : "Shake Shack",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 90.9513
+      },
+      "duration" : {
+        "startTimestampMs" : "1517418250200",
+        "endTimestampMs" : "1517420406118"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 407807705,
+      "centerLngE7" : -739763742,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407818509,
+        "longitudeE7" : -739747602,
+        "placeId" : "ChIJv8mWqY9YwokRIzh7-8yBA14",
+        "name" : "Theodore Roosevelt Park",
+        "locationConfidence" : 3.9674897
+      }, {
+        "latitudeE7" : 407809326,
+        "longitudeE7" : -739777228,
+        "placeId" : "ChIJi42ljz9fwokR-jVyhgYj26Y",
+        "name" : "Grand Bazaar NYC",
+        "locationConfidence" : 0.63541
+      }, {
+        "latitudeE7" : 407828647,
+        "longitudeE7" : -739653551,
+        "placeId" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+        "name" : "Central Park",
+        "locationConfidence" : 0.566338
+      }, {
+        "latitudeE7" : 407809740,
+        "longitudeE7" : -739764650,
+        "placeId" : "ChIJiTCQ2o5YwokR6NkC_G0D7dA",
+        "name" : "Café Frida",
+        "locationConfidence" : 0.2625189
+      }, {
+        "latitudeE7" : 407814500,
+        "longitudeE7" : -739770120,
+        "placeId" : "ChIJeVSXKo9YwokRv1Y2afvKUcA",
+        "name" : "Sam L. Weissbard, DDS",
+        "locationConfidence" : 0.14934692
+      }, {
+        "latitudeE7" : 407802505,
+        "longitudeE7" : -739760981,
+        "placeId" : "ChIJuRgbxI5YwokRkwotE2WRiYY",
+        "name" : "Dr. Anita Shrivastava, MD",
+        "locationConfidence" : 0.08891665
+      }, {
+        "latitudeE7" : 407825514,
+        "longitudeE7" : -739754027,
+        "placeId" : "ChIJqelza49YwokRT8uWjTzhwAQ",
+        "name" : "Monica And Andy",
+        "locationConfidence" : 0.08775619
+      }, {
+        "latitudeE7" : 407803190,
+        "longitudeE7" : -739760750,
+        "placeId" : "ChIJuRgbxI5YwokRsD8IBFwQHYA",
+        "name" : "Westcare Medical Associates-International MD",
+        "locationConfidence" : 0.08611311
+      }, {
+        "latitudeE7" : 407803190,
+        "longitudeE7" : -739760750,
+        "placeId" : "ChIJuRgbxI5YwokRzNjESPJ225M",
+        "name" : "Westcare Medical Associates Pediatrics",
+        "locationConfidence" : 0.07813907
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407808622,
+        "longitudeE7" : -739765412
+      },
+      "endLocation" : {
+        "latitudeE7" : 407765163,
+        "longitudeE7" : -739641876
+      },
+      "duration" : {
+        "startTimestampMs" : "1517420406118",
+        "endTimestampMs" : "1517421616294"
+      },
+      "distance" : 1146,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 91.37399456149485
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.190950336392244
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.1282569113173757
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407807617,
+          "lngE7" : -739766159
+        }, {
+          "latE7" : 407765007,
+          "lngE7" : -739641494
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407828647,
+        "longitudeE7" : -739653551,
+        "placeId" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+        "address" : "New York, NY\nUSA",
+        "name" : "Central Park",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 98.44897
+      },
+      "duration" : {
+        "startTimestampMs" : "1517421616294",
+        "endTimestampMs" : "1517427900243"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 407794366,
+          "longitudeE7" : -739632440,
+          "placeId" : "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+          "address" : "1000 5th Ave\nNew York, NY 10028\nUSA",
+          "name" : "The Metropolitan Museum of Art",
+          "sourceInfo" : {
+            "deviceTag" : -70011943
+          },
+          "locationConfidence" : 96.556335
+        },
+        "duration" : {
+          "startTimestampMs" : "1517421616294",
+          "endTimestampMs" : "1517427900243"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 407790893,
+        "centerLngE7" : -739633111,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 407812116,
+          "longitudeE7" : -739666448,
+          "placeId" : "ChIJd7iQrJBYwokROrpPbxeQsUc",
+          "name" : "Great Lawn",
+          "locationConfidence" : 0.19268967
+        }, {
+          "latitudeE7" : 407779232,
+          "longitudeE7" : -739627461,
+          "placeId" : "ChIJs15XjJZYwokRH_U7C3T4EJM",
+          "name" : "Dr. Rhoda S. Narins, MD",
+          "locationConfidence" : 0.038339138
+        }, {
+          "latitudeE7" : 407792326,
+          "longitudeE7" : -739614125,
+          "placeId" : "ChIJxRTWspdYwokRdAphff6SUzw",
+          "name" : "John E. Sherman MD, FACS",
+          "locationConfidence" : 0.037821364
+        }, {
+          "latitudeE7" : 407782798,
+          "longitudeE7" : -739611758,
+          "placeId" : "ChIJATnaRpZYwokR_vYhgbuFsR8",
+          "name" : "Hair Extensions Manhattan NYC",
+          "locationConfidence" : 0.03471246
+        }, {
+          "latitudeE7" : 407789883,
+          "longitudeE7" : -739609562,
+          "placeId" : "ChIJKx_FSpZYwokRidIDqxW1g7s",
+          "name" : "GMC Parking",
+          "locationConfidence" : 0.03411243
+        }, {
+          "latitudeE7" : 407761489,
+          "longitudeE7" : -739632350,
+          "placeId" : "ChIJh3RsOpRYwokRqQ3Wr9hhA1w",
+          "name" : "Pandora Old Masters",
+          "locationConfidence" : 0.033783462
+        }, {
+          "latitudeE7" : 407792326,
+          "longitudeE7" : -739614125,
+          "placeId" : "ChIJme45ysFYwokR8wRmuZsezX4",
+          "name" : "Edmund Kwan, M.D. - Manhattan Office",
+          "locationConfidence" : 0.031484492
+        }, {
+          "latitudeE7" : 407778600,
+          "longitudeE7" : -739612350,
+          "placeId" : "ChIJlzFjlpRYwokRvTeORA0ei8c",
+          "name" : "Traum Safe",
+          "locationConfidence" : 0.031265337
+        }, {
+          "latitudeE7" : 407762220,
+          "longitudeE7" : -739625270,
+          "placeId" : "ChIJF92XMpRYwokR_iEWwFSaU6Q",
+          "name" : "Skarstedt Gallery",
+          "locationConfidence" : 0.030645603
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 407790893,
+      "centerLngE7" : -739633111,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407779232,
+        "longitudeE7" : -739627461,
+        "placeId" : "ChIJs15XjJZYwokRH_U7C3T4EJM",
+        "name" : "Dr. Rhoda S. Narins, MD",
+        "locationConfidence" : 0.039090637
+      }, {
+        "latitudeE7" : 407792326,
+        "longitudeE7" : -739614125,
+        "placeId" : "ChIJxRTWspdYwokRdAphff6SUzw",
+        "name" : "John E. Sherman MD, FACS",
+        "locationConfidence" : 0.03856271
+      }, {
+        "latitudeE7" : 407782798,
+        "longitudeE7" : -739611758,
+        "placeId" : "ChIJATnaRpZYwokR_vYhgbuFsR8",
+        "name" : "Hair Extensions Manhattan NYC",
+        "locationConfidence" : 0.03539287
+      }, {
+        "latitudeE7" : 407789883,
+        "longitudeE7" : -739609562,
+        "placeId" : "ChIJKx_FSpZYwokRidIDqxW1g7s",
+        "name" : "GMC Parking",
+        "locationConfidence" : 0.03478108
+      }, {
+        "latitudeE7" : 407761489,
+        "longitudeE7" : -739632350,
+        "placeId" : "ChIJh3RsOpRYwokRqQ3Wr9hhA1w",
+        "name" : "Pandora Old Masters",
+        "locationConfidence" : 0.034445662
+      }, {
+        "latitudeE7" : 407792326,
+        "longitudeE7" : -739614125,
+        "placeId" : "ChIJme45ysFYwokR8wRmuZsezX4",
+        "name" : "Edmund Kwan, M.D. - Manhattan Office",
+        "locationConfidence" : 0.032101627
+      }, {
+        "latitudeE7" : 407778600,
+        "longitudeE7" : -739612350,
+        "placeId" : "ChIJlzFjlpRYwokRvTeORA0ei8c",
+        "name" : "Traum Safe",
+        "locationConfidence" : 0.03187818
+      }, {
+        "latitudeE7" : 407762220,
+        "longitudeE7" : -739625270,
+        "placeId" : "ChIJF92XMpRYwokR_iEWwFSaU6Q",
+        "name" : "Skarstedt Gallery",
+        "locationConfidence" : 0.031246297
+      }, {
+        "latitudeE7" : 407805298,
+        "longitudeE7" : -739608031,
+        "placeId" : "ChIJD9bL7pdYwokRxRtRedwzdLg",
+        "name" : "Horbar Gary M MD",
+        "locationConfidence" : 0.028461695
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 407765133,
+          "lngE7" : -739641945,
+          "timestampMs" : "1517421616294",
+          "accuracyMeters" : 85
+        }, {
+          "latE7" : 407792983,
+          "lngE7" : -739626237,
+          "timestampMs" : "1517422400490",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407804234,
+          "lngE7" : -739620688,
+          "timestampMs" : "1517423416419",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 407798179,
+          "lngE7" : -739624735,
+          "timestampMs" : "1517423912732",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 407788042,
+          "lngE7" : -739630091,
+          "timestampMs" : "1517424274203",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 407782451,
+          "lngE7" : -739632986,
+          "timestampMs" : "1517424400188",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 407782776,
+          "lngE7" : -739641547,
+          "timestampMs" : "1517425407396",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 407788936,
+          "lngE7" : -739640766,
+          "timestampMs" : "1517426036167",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 407787584,
+          "lngE7" : -739651013,
+          "timestampMs" : "1517426404170",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 407806617,
+          "lngE7" : -739631241,
+          "timestampMs" : "1517427773835",
+          "accuracyMeters" : 19
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407828647,
+        "longitudeE7" : -739653551
+      },
+      "endLocation" : {
+        "latitudeE7" : 407618320,
+        "longitudeE7" : -739776015
+      },
+      "duration" : {
+        "startTimestampMs" : "1517427900243",
+        "endTimestampMs" : "1517429610653"
+      },
+      "distance" : 2866,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 76.00236660372313
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 15.537619463656313
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.748929437544212
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407825088,
+          "lngE7" : -739656372
+        }, {
+          "latE7" : 407619094,
+          "lngE7" : -739775466
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407639730,
+        "longitudeE7" : -739774480
+      },
+      "endLocation" : {
+        "latitudeE7" : 407551354,
+        "longitudeE7" : -739841134
+      },
+      "duration" : {
+        "startTimestampMs" : "1517429610653",
+        "endTimestampMs" : "1517429983076"
+      },
+      "distance" : 1131,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 79.87150670338812
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.1629106241455
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 4.787781451845433
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 407639730,
+          "longitudeE7" : -739774480,
+          "placeId" : "ChIJPeaZ_vlYwokRtLajrZLTmbM",
+          "name" : "57 St"
+        }, {
+          "latitudeE7" : 407551354,
+          "longitudeE7" : -739841134,
+          "placeId" : "ChIJCw1ewKpZwokRD_JLDK0rqaE",
+          "name" : "42 St - Bryant Pk"
+        } ],
+        "name" : "F",
+        "hexRgbColor" : "F4511E"
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 407550016,
+        "longitudeE7" : -739878047
+      },
+      "endLocation" : {
+        "latitudeE7" : 407558408,
+        "longitudeE7" : -739920130
+      },
+      "duration" : {
+        "startTimestampMs" : "1517429983076",
+        "endTimestampMs" : "1517430358085"
+      },
+      "distance" : 452,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 92.99074345859741
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.303050374298471
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.6761134105878636
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 407549858,
+          "lngE7" : -739877777
+        }, {
+          "latE7" : 407557487,
+          "lngE7" : -739920806
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 407558410,
+        "longitudeE7" : -739917840,
+        "placeId" : "ChIJCQeW2KxZwokRcFA1jngEs_8",
+        "address" : "311 West 39th Street Between 8th And\n9th Ave\nNew York, NY 10018\nUSA",
+        "name" : "Element New York Times Square West",
+        "sourceInfo" : {
+          "deviceTag" : -70011943
+        },
+        "locationConfidence" : 74.515755
+      },
+      "duration" : {
+        "startTimestampMs" : "1517430358085",
+        "endTimestampMs" : "1517492843829"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 407557902,
+      "centerLngE7" : -739920744,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 407558060,
+        "longitudeE7" : -739920120,
+        "placeId" : "ChIJdSHa16xZwokR6hSFECz_XaM",
+        "locationConfidence" : 14.73501
+      }, {
+        "latitudeE7" : 407559530,
+        "longitudeE7" : -739920680,
+        "placeId" : "ChIJuelKL61ZwokRXFTpefsG-1U",
+        "name" : "Prime Studio",
+        "locationConfidence" : 1.8837843
+      }, {
+        "latitudeE7" : 407560541,
+        "longitudeE7" : -739913247,
+        "placeId" : "ChIJ08dY0axZwokRkAhbeV-hV0I",
+        "name" : "Athens Wine and Spirits",
+        "locationConfidence" : 0.2478412
+      }, {
+        "latitudeE7" : 407554201,
+        "longitudeE7" : -739927316,
+        "placeId" : "ChIJXwCH9rtZwokRh8X1HPfSv_8",
+        "name" : "Les Toiles Du Soleil",
+        "locationConfidence" : 0.23433737
+      }, {
+        "latitudeE7" : 407556368,
+        "longitudeE7" : -739924626,
+        "placeId" : "ChIJtWTdJK1ZwokRBuYfuOpomJI",
+        "name" : "Kaback Enterprises",
+        "locationConfidence" : 0.22723323
+      }, {
+        "latitudeE7" : 407556439,
+        "longitudeE7" : -739914487,
+        "placeId" : "ChIJ0_qKRaNZwokR4e3ZHVVG8DU",
+        "name" : "Hunk-O-Mania",
+        "locationConfidence" : 0.20920628
+      }, {
+        "latitudeE7" : 407555230,
+        "longitudeE7" : -739922280,
+        "placeId" : "ChIJIyPvw6xZwokRizSsCqsfNnM",
+        "name" : "Star Snaps NYC",
+        "locationConfidence" : 0.168571
+      }, {
+        "latitudeE7" : 407553402,
+        "longitudeE7" : -739908310,
+        "placeId" : "ChIJAQEVxaxZwokRDxHYa5SPB78",
+        "name" : "Restaurante Mexicano",
+        "locationConfidence" : 0.123580046
+      }, {
+        "latitudeE7" : 407551949,
+        "longitudeE7" : -739922208,
+        "placeId" : "ChIJh_Jx_6xZwokRyoUC9moX4I8",
+        "name" : "JPO Concepts",
+        "locationConfidence" : 0.123003684
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

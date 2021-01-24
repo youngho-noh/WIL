@@ -1,0 +1,575 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -118.0577842, 33.9824595 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=11456+Hadley+St,+Whittier,+CA+90606&ftid=0x80c2d3d1bc0a8ec7:0xf0aa4411d2c8fa43",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.9824595",
+          "Longitude" : "-118.0577842"
+        }
+      },
+      "Published" : "2020-05-31T01:21:47Z",
+      "Title" : "11456 Hadley St, Whittier, CA 90606",
+      "Updated" : "2020-05-31T01:21:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2926917, 34.0620324 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12816388973287381897",
+      "Location" : {
+        "Address" : "3243 Wilshire Blvd, Los Angeles, CA 90010 미국",
+        "Business Name" : "주 로스앤젤레스 대한민국 총영사관",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0620324",
+          "Longitude" : "-118.2926917"
+        }
+      },
+      "Published" : "2020-05-20T04:58:25Z",
+      "Title" : "Consulate General of the Republic of Korea",
+      "Updated" : "2020-05-20T04:58:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -116.5452921, 33.8302961 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Palm+Springs,+CA&ftid=0x80db1ad4ffdbe5b3:0xa1e56987c2ed797c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.8302961",
+          "Longitude" : "-116.5452921"
+        }
+      },
+      "Published" : "2020-04-23T21:29:48Z",
+      "Title" : "Palm Springs, California",
+      "Updated" : "2020-04-23T21:29:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0430350, 33.9525670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16058166193373500214",
+      "Location" : {
+        "Address" : "9338 Painter Ave, Whittier, CA 90605 미국",
+        "Business Name" : "Whittier DMV",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.9525670",
+          "Longitude" : "-118.0430350"
+        }
+      },
+      "Published" : "2020-03-04T06:07:55Z",
+      "Title" : "Whittier DMV",
+      "Updated" : "2020-03-04T06:07:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0601372, 33.9649888 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.964988834833726,-118.06013714522125",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.9649888",
+          "Longitude" : "-118.0601372"
+        }
+      },
+      "Published" : "2020-03-04T00:38:41Z",
+      "Title" : "33.964988834833726,-118.06013714522125",
+      "Updated" : "2020-03-04T00:38:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0363794, 33.9861409 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=6201+Bright+Ave,+Whittier,+CA+90601&ftid=0x80c2d3e601b195ff:0xb9b0ae9dc43efaa4",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.9861409",
+          "Longitude" : "-118.0363794"
+        }
+      },
+      "Published" : "2020-02-16T23:02:18Z",
+      "Title" : "6201 Bright Ave, Whittier, CA 90601",
+      "Updated" : "2020-02-16T23:02:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0400520, 33.9706980 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=7737+Milton+Ave+Apt.+C,+Whittier,+CA+90602&ftid=0x80c2d395c6828f7d:0xcc16d388ec3a3d26",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.9706980",
+          "Longitude" : "-118.0400520"
+        }
+      },
+      "Published" : "2020-02-16T23:02:04Z",
+      "Title" : "7737 Milton Ave Apt. C, Whittier, CA 90602",
+      "Updated" : "2020-02-16T23:02:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0369789, 33.9770854 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13511369236766613811",
+      "Location" : {
+        "Address" : "7200 Greenleaf Ave, Whittier, CA 90602 미국",
+        "Business Name" : "Social Security Administration whittier",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.9770854",
+          "Longitude" : "-118.0369789"
+        }
+      },
+      "Published" : "2020-02-16T05:19:14Z",
+      "Title" : "Social Security Administration whittier",
+      "Updated" : "2020-02-16T05:19:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.9840000, 33.8455449 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=8541+Tamarack+Way,+Buena+Park,+CA+90620&ftid=0x80dd2bd81b18a227:0xdb20706a78a07292",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.8455449",
+          "Longitude" : "-117.9840000"
+        }
+      },
+      "Published" : "2020-02-13T19:04:43Z",
+      "Title" : "8541 Tamarack Way, Buena Park, CA 90620",
+      "Updated" : "2020-02-13T19:04:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0692174, 33.9399277 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12345622877090061486",
+      "Location" : {
+        "Address" : "10533 Willis St, Santa Fe Springs, CA 90670 미국",
+        "Business Name" : "빌리지스 앳 헤리티지 스프즈",
+        "Geo Coordinates" : {
+          "Latitude" : "33.9399277",
+          "Longitude" : "-118.0692174"
+        }
+      },
+      "Published" : "2020-02-13T18:26:28Z",
+      "Title" : "Villages At Heritage Spgs",
+      "Updated" : "2020-02-13T18:26:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0138540, 33.9202170 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=12110+Tanfield+Dr,+La+Mirada,+CA+90638&ftid=0x80c2d4ab4f2d1e7f:0xec30061cddc92086",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.9202170",
+          "Longitude" : "-118.0138540"
+        }
+      },
+      "Published" : "2020-02-13T18:26:04Z",
+      "Title" : "12110 Tanfield Dr, La Mirada, CA 90638",
+      "Updated" : "2020-02-13T18:26:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.6277769, 43.6766470 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arles&ftid=0x12b672075d4814cd:0x40819a5fd970550",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "43.6766470",
+          "Longitude" : "4.6277769"
+        }
+      },
+      "Published" : "2019-08-08T13:25:53Z",
+      "Title" : "Arles",
+      "Updated" : "2019-08-08T13:25:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.4113080, 46.9835200 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=36180+Pellevoisin&ftid=0x47fb64da8f874b71:0x5ff2b682516af4fe",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "46.9835200",
+          "Longitude" : "1.4113080"
+        }
+      },
+      "Published" : "2019-08-08T13:24:59Z",
+      "Title" : "Pellevoisin, 36180",
+      "Updated" : "2019-08-08T13:24:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.2055760, 48.6876365 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5902215221333278099",
+      "Location" : {
+        "Address" : "Flughafenstraße 32, 70629 Stuttgart, 독일",
+        "Business Name" : "슈투트가르트 공항",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "48.6876365",
+          "Longitude" : "9.2055760"
+        }
+      },
+      "Published" : "2019-07-28T14:15:47Z",
+      "Title" : "Stuttgart Airport",
+      "Updated" : "2019-07-28T14:15:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.2762705, 48.8621910 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=56+Rue+de+la+Pompe,+75116+Paris,+France&ftid=0x47e66555dd766bdf:0xba7f6324d23b542c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "48.8621910",
+          "Longitude" : "2.2762705"
+        }
+      },
+      "Published" : "2019-07-04T13:40:35Z",
+      "Title" : "56 Rue de la Pompe, 75116 Paris, France",
+      "Updated" : "2019-07-04T13:40:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.1829321, 48.7758459 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Stuttgart,+Germany&ftid=0x4799db34c1ad8fd3:0x79d5c11c7791cfe4",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "48.7758459",
+          "Longitude" : "9.1829321"
+        }
+      },
+      "Published" : "2019-03-28T16:43:20Z",
+      "Title" : "Stuttgart, Germany",
+      "Updated" : "2019-03-28T16:43:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3321136, 48.8650610 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4969149814646181830",
+      "Location" : {
+        "Address" : "18 Rue Saint-Roch, 75001 Paris, 프랑스",
+        "Business Name" : "Brigitte Tanaka",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8650610",
+          "Longitude" : "2.3321136"
+        }
+      },
+      "Published" : "2019-02-15T13:19:36Z",
+      "Title" : "Brigitte Tanaka",
+      "Updated" : "2019-02-15T13:19:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3456871, 48.8648522 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15475950149562342127",
+      "Location" : {
+        "Address" : "64 Rue Tiquetonne, 75002 Paris, 프랑스",
+        "Business Name" : "Kiliwatch Paris",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8648522",
+          "Longitude" : "2.3456871"
+        }
+      },
+      "Published" : "2019-02-15T08:32:30Z",
+      "Title" : "Espace Killiwatch",
+      "Updated" : "2019-02-15T08:32:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3308040, 48.8653354 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=213+Rue+Saint+Honor%C3%A9,+75001+Paris&ftid=0x47e66e2e35e4302d:0xbc3f54a04bc48b36",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "48.8653354",
+          "Longitude" : "2.3308040"
+        }
+      },
+      "Published" : "2019-02-15T08:30:54Z",
+      "Title" : "213 Rue Saint Honoré, 75001 Paris",
+      "Updated" : "2019-02-15T08:30:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3440251, 48.8828748 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=834493552756925763",
+      "Location" : {
+        "Address" : "프랑스 75018 파리",
+        "Business Name" : "Anvers",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8828748",
+          "Longitude" : "2.3440251"
+        }
+      },
+      "Published" : "2019-02-10T21:19:13Z",
+      "Title" : "Anvers",
+      "Updated" : "2019-02-10T21:19:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3489830, 48.8637100 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7319916218239690876",
+      "Location" : {
+        "Address" : "프랑스 75001 파리",
+        "Business Name" : "Étienne Marcel",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8637100",
+          "Longitude" : "2.3489830"
+        }
+      },
+      "Published" : "2019-02-09T23:34:35Z",
+      "Title" : "Étienne Marcel",
+      "Updated" : "2019-02-09T23:34:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3519223, 48.8632862 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13891795162331809848",
+      "Location" : {
+        "Address" : "6 Rue aux Ours 4Bis, 75003 Paris, 프랑스",
+        "Business Name" : "Commissariat de Police de Paris Centre",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8632862",
+          "Longitude" : "2.3519223"
+        }
+      },
+      "Published" : "2019-02-09T23:01:35Z",
+      "Title" : "Commissariat De Police Du 3è Arrondissement",
+      "Updated" : "2019-02-09T23:01:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3280554, 48.8739752 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10109193767593479864",
+      "Location" : {
+        "Address" : "Printemps Haussmann, 64 Boulevard Haussmann 4e étage, 75009 Paris, 프랑스",
+        "Business Name" : "Pop up Matelas Tediber Printemps Haussmann",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8739752",
+          "Longitude" : "2.3280554"
+        }
+      },
+      "Published" : "2019-02-09T20:12:14Z",
+      "Title" : "Printemps Haussmann",
+      "Updated" : "2019-02-09T20:12:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3243648, 48.8511354 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15680262825663619698",
+      "Location" : {
+        "Address" : "24 Rue de Sèvres, 75007 Paris, 프랑스",
+        "Business Name" : "르봉 마르셰",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8511354",
+          "Longitude" : "2.3243648"
+        }
+      },
+      "Published" : "2019-02-09T20:11:56Z",
+      "Title" : "Le Bon Marché",
+      "Updated" : "2019-02-09T20:11:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 7.0177139, 43.5518444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9435873562922369336",
+      "Location" : {
+        "Address" : "14 Rue Bivouac Napoléon, 06400 Cannes, 프랑스",
+        "Business Name" : "Vilfeu Pere et Fils",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "43.5518444",
+          "Longitude" : "7.0177139"
+        }
+      },
+      "Published" : "2019-02-04T12:44:58Z",
+      "Title" : "Vilfeu Pere et Fils",
+      "Updated" : "2019-02-04T12:44:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7233044, 35.0325561 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3078362913176260617",
+      "Location" : {
+        "Address" : "56-1 Tojiin Kitamachi, Kita Ward, Kyoto, 603-8577 일본",
+        "Business Name" : "리쓰메이칸 대학",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0325561",
+          "Longitude" : "135.7233044"
+        }
+      },
+      "Published" : "2018-08-21T19:06:43Z",
+      "Title" : "Ritsumeikan University",
+      "Updated" : "2018-08-21T19:06:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.8852842, 40.8964243 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12883815916597809409",
+      "Location" : {
+        "Address" : "Broadway and, Van Cortlandt Park S, The Bronx, NY 10471 미국",
+        "Business Name" : "Van Cortlandt Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8964243",
+          "Longitude" : "-73.8852842"
+        }
+      },
+      "Published" : "2018-07-14T14:42:27Z",
+      "Title" : "Van Cortlandt Park",
+      "Updated" : "2018-07-14T14:42:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.1329125, 40.9117941 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14964160012062792368",
+      "Location" : {
+        "Address" : "Stony Brook, NY 11790 미국",
+        "Business Name" : "웨스트 아파트",
+        "Geo Coordinates" : {
+          "Latitude" : "40.9117941",
+          "Longitude" : "-73.1329125"
+        }
+      },
+      "Published" : "2018-07-08T15:40:35Z",
+      "Title" : "West Apartments",
+      "Updated" : "2018-07-08T15:40:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9478250, 40.7495950 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6399276486393640311",
+      "Location" : {
+        "Address" : "1302 44th Ave, Long Island City, NY 11101 미국",
+        "Business Name" : "The Local NYC",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7495950",
+          "Longitude" : "-73.9478250"
+        }
+      },
+      "Published" : "2018-02-12T18:15:56Z",
+      "Title" : "The Local NYC",
+      "Updated" : "2018-02-12T18:15:56Z"
+    },
+    "type" : "Feature"
+  } ]
+}

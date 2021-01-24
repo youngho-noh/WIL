@@ -1,0 +1,37 @@
+{
+  "creationTime": {
+    "usecSinceEpochUtc": "1549963185086514",
+    "granularity": "MICROSECOND",
+    "utcTimezoneOffsetMinutes": 60
+  },
+  "orderStatus": {
+    "status": "CONFIRMED"
+  },
+  "transactionMerchant": {
+    "name": "ZenChef"
+  },
+  "lineItem": [{
+    "provider": {
+      "name": "Bong Restaurant",
+      "location": {
+        "name": "Bong Restaurant"
+      }
+    },
+    "reservation": {
+      "duration": {
+        "startTime": {
+          "usecSinceEpochUtc": "1549971000000000",
+          "granularity": "MICROSECOND",
+          "utcTimezoneOffsetMinutes": 60
+        },
+        "endTime": {
+          "usecSinceEpochUtc": "1549976400000000",
+          "granularity": "MICROSECOND",
+          "utcTimezoneOffsetMinutes": 60
+        }
+      },
+      "confirmationCode": "2D36-4744-9E00-3353",
+      "partySize": 3
+    }
+  }]
+}
