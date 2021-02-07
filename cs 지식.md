@@ -10,7 +10,10 @@
 
    destruction : 객체의 reference count가 0이 될 때, 더 이상 참조하는 값이 없을 때 객체가 삭제된다. 객체가 필요 없어졌을 대 제거하는 것을 garbage collection이라고 한다. `__del__`
 
-  
+
+
+
+
 
 ## 01.19(Tue)
 
@@ -31,6 +34,8 @@ size가 선언시점에 정해짐
 
 새로운 데이터를 받았을 때 공간이 다 차있으면, 새로운 메모리 공간을 할당 받는다.
 
+
+
 #### Linked List
 
 위의 문제를 해결하기 위한 자료구조가 `linked list`이다. 각각의 원소들은 자기 자신 다음에 어떤 원소인지만 기억한다. 따라서 이 부분만 다른 값으로 바꿔주면 삭제와 삽입을 ***O(1)*** 만에 해결할 수 있다.
@@ -49,11 +54,15 @@ size는 다양할 수 잆다 ; node들이 추가될 때 runtime시점에서 size
 
 Linked List 자료구조는 search에도 O(n)의 time complexity를 갖는다.) Linked List는 **Tree 구조**의 근간이 되는 자료구조이며, Tree에서 사용되었을 때 그 유용성이 들어난다.
 
+
+
 #### 차이
 
 전반적으로 linked list가 더 유용해보인다. 그러나 알고리즘 문제를 풀 때는 메모리 공간의 범위를 파악할 수 있도록 주기 때문에 array가 훨씬 빠르고 좋다.
 
 linked list에서는 list 입력과 삭제 시마다 메모리 할당과 해제가 발생한다. 이때 시간복잡도에는 포함되지 않지만 `시스템콜(system call)`을 사용하는 구문은 시간이 더 걸린다.
+
+
 
 
 
@@ -94,6 +103,8 @@ linked list에서는 list 입력과 삭제 시마다 메모리 할당과 해제�
 
 
 
+
+
 ## 01.26(Tue)
 
 > Stack & Queue
@@ -115,6 +126,8 @@ linked list에서는 list 입력과 삭제 시마다 메모리 할당과 해제�
 
 
 
+
+
 - Queue란?
 
   Queue is a particular kind of abstract data type or collection in which the entities(개체) in the collection are kept in order and the principal (or only) operations on the collection are the addition of entities to the rear terminal position, known as **enqueue**, and removal of entities from the front terminal position, known as **dequeue**.
@@ -128,5 +141,22 @@ linked list에서는 list 입력과 삭제 시마다 메모리 할당과 해제�
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/300px-Data_Queue.svg.png)
+
+
+
+## 01.29(Fri)
+
+> 
+
+
+
+
+
+
+
+
+
+
+
 
 
